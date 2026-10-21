@@ -113,6 +113,39 @@ export const translations = {
       submittingBtn: "Sending...",
       successMsg: "Message sent successfully. We will contact you soon.",
       errorMsg: "Something went wrong. Please try again."
+    },
+    loginPage: {
+      loginTitle: "Login to Your Account",
+      signUpTitle: "Create New Account",
+      emailLabel: "Email Address",
+      passwordLabel: "Password",
+      submitLogin: "Login securely",
+      submitSignUp: "Create account securely",
+      googleBtn: "Continue with Google",
+      noAccountText: "New here?",
+      hasAccountText: "Already have an account?",
+      switchSignUp: "Create one",
+      switchLogin: "Login here",
+      errorMsg: "Email or password incorrect. Please try again."
+    },
+    dashboardPage: {
+      title: "My Account",
+      welcome: "Welcome back",
+      logoutBtn: "Log Out",
+      goalsTitle: "My Saved Plans",
+      noGoals: "You have not saved any plans yet. Use our Money Tools to start planning.",
+      savedLabel: "Money Saved",
+      neededLabel: "Money Needed",
+      consultationsTitle: "My Meeting History",
+      noConsultations: "You have no past meetings with us."
+    },
+    adminPage: {
+      title: "Staff Work Area",
+      accessDenied: "Access Denied",
+      deniedMessage: "You do not have permission to view this page. Staff cannot use Google login.",
+      inquiriesTab: "Customer Messages",
+      staffTab: "Manage Staff",
+      updateMeeting: "Update Meeting details"
     }
   },
 
@@ -230,6 +263,39 @@ export const translations = {
       submittingBtn: "भेज रहे हैं...",
       successMsg: "संदेश सफलतापूर्वक भेज दिया गया है। हम जल्द ही आपसे संपर्क करेंगे।",
       errorMsg: "कुछ गलत हो गया। कृपया पुनः प्रयास करें।"
+    },
+    loginPage: {
+      loginTitle: "खाते में प्रवेश करें",
+      signUpTitle: "नया खाता बनाएं",
+      emailLabel: "ईमेल पता",
+      passwordLabel: "पासवर्ड",
+      submitLogin: "सुरक्षित प्रवेश करें",
+      submitSignUp: "सुरक्षित खाता बनाएं",
+      googleBtn: "Google के साथ आगे बढ़ें",
+      noAccountText: "क्या आप नए हैं?",
+      hasAccountText: "क्या आपके पास पहले से खाता है?",
+      switchSignUp: "नया खाता बनाएं",
+      switchLogin: "यहां से प्रवेश करें",
+      errorMsg: "ईमेल या पासवर्ड गलत है। कृपया पुनः प्रयास करें।"
+    },
+    dashboardPage: {
+      title: "मेरा खाता",
+      welcome: "वापसी पर स्वागत है",
+      logoutBtn: "बाहर जाएं",
+      goalsTitle: "मेरी सुरक्षित योजनाएं",
+      noGoals: "आपने अभी तक कोई योजना सुरक्षित नहीं की है। शुरू करने के लिए हमारे हिसाब किताब टूल का उपयोग करें।",
+      savedLabel: "जमा किया गया पैसा",
+      neededLabel: "जरूरत का पैसा",
+      consultationsTitle: "मेरी बैठकों की जानकारी",
+      noConsultations: "हमारे साथ आपकी कोई पिछली बैठक नहीं हुई है।"
+    },
+    adminPage: {
+      title: "कर्मचारी कार्य क्षेत्र",
+      accessDenied: "पहुंच अस्वीकार कर दी गई",
+      deniedMessage: "आपको यह पृष्ठ देखने की अनुमति नहीं है। कर्मचारी Google लॉगिन का उपयोग नहीं कर सकते।",
+      inquiriesTab: "ग्राहक संदेश",
+      staffTab: "कर्मचारी प्रबंधित करें",
+      updateMeeting: "बैठक का विवरण अपडेट करें"
     }
   },
 
@@ -347,6 +413,39 @@ export const translations = {
       submittingBtn: "पाठवत आहे...",
       successMsg: "संदेश यशस्वीरित्या पाठवला. आम्ही लवकरच तुमच्याशी संपर्क साधू.",
       errorMsg: "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा."
+    },
+    loginPage: {
+      loginTitle: "खात्यात प्रवेश करा",
+      signUpTitle: "नवीन खाते तयार करा",
+      emailLabel: "ईमेल पत्ता",
+      passwordLabel: "पासवर्ड",
+      submitLogin: "सुरक्षित प्रवेश करा",
+      submitSignUp: "सुरक्षित खाते तयार करा",
+      googleBtn: "Google सह पुढे जा",
+      noAccountText: "येथे नवीन आहात?",
+      hasAccountText: "आधीच खाते आहे का?",
+      switchSignUp: "एक तयार करा",
+      switchLogin: "येथे प्रवेश करा",
+      errorMsg: "ईमेल किंवा पासवर्ड चुकीचा आहे. कृपया पुन्हा प्रयत्न करा."
+    },
+    dashboardPage: {
+      title: "माझे खाते",
+      welcome: "पुन्हा स्वागत आहे",
+      logoutBtn: "बाहेर पडा",
+      goalsTitle: "माझ्या जतन केलेल्या योजना",
+      noGoals: "तुम्ही अद्याप कोणतीही योजना जतन केलेली नाही. सुरुवात करण्यासाठी आमची हिशोब साधने वापरा.",
+      savedLabel: "जमा केलेले पैसे",
+      neededLabel: "आवश्यक पैसे",
+      consultationsTitle: "माझ्या बैठकांची माहिती",
+      noConsultations: "आमच्यासोबत तुमची कोणतीही मागील बैठक झालेली नाही."
+    },
+    adminPage: {
+      title: "कर्मचारी कार्यक्षेत्र",
+      accessDenied: "प्रवेश नाकारला",
+      deniedMessage: "तुम्हाला हे पृष्ठ पाहण्याची परवानगी नाही. कर्मचारी गुगल लॉगिन वापरू शकत नाहीत.",
+      inquiriesTab: "ग्राहक संदेश",
+      staffTab: "कर्मचारी व्यवस्थापन",
+      updateMeeting: "बैठक तपशील अद्यतनित करा"
     }
   },
 
@@ -464,6 +563,39 @@ export const translations = {
       submittingBtn: "ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ...",
       successMsg: "ಸಂದೇಶವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಕಳುಹಿಸಲಾಗಿದೆ. ನಾವು ಶೀಘ್ರದಲ್ಲೇ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುತ್ತೇವೆ.",
       errorMsg: "ಏನೋ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+    },
+    loginPage: {
+      loginTitle: "ಖಾತೆಗೆ ಲಾಗಿನ್ ಆಗಿ",
+      signUpTitle: "ಹೊಸ ಖಾತೆ ರಚಿಸಿ",
+      emailLabel: "ಇಮೇಲ್ ವಿಳಾಸ",
+      passwordLabel: "ಪಾಸ್‌ವರ್ಡ್",
+      submitLogin: "ಸುರಕ್ಷಿತವಾಗಿ ಲಾಗಿನ್ ಆಗಿ",
+      submitSignUp: "ಸುರಕ್ಷಿತವಾಗಿ ಖಾತೆ ರಚಿಸಿ",
+      googleBtn: "Google ನೊಂದಿಗೆ ಮುಂದುವರಿಯಿರಿ",
+      noAccountText: "ಇಲ್ಲಿಗೆ ಹೊಸಬರೇ?",
+      hasAccountText: "ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿದ್ದೀರಾ?",
+      switchSignUp: "ಹೊಸ ಖಾತೆ ರಚಿಸಿ",
+      switchLogin: "ಇಲ್ಲಿ ಲಾಗಿನ್ ಆಗಿ",
+      errorMsg: "ಇಮೇಲ್ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+    },
+    dashboardPage: {
+      title: "ನನ್ನ ಖಾತೆ",
+      welcome: "ಮತ್ತೆ ಸ್ವಾಗತ",
+      logoutBtn: "ಲಾಗ್ ಔಟ್",
+      goalsTitle: "ನನ್ನ ಉಳಿಸಿದ ಯೋಜನೆಗಳು",
+      noGoals: "ನೀವು ಇನ್ನೂ ಯಾವುದೇ ಯೋಜನೆಗಳನ್ನು ಉಳಿಸಿಲ್ಲ. ಪ್ರಾರಂಭಿಸಲು ನಮ್ಮ ಲೆಕ್ಕ ಸಾಧನಗಳನ್ನು ಬಳಸಿ.",
+      savedLabel: "ಉಳಿಸಿದ ಹಣ",
+      neededLabel: "ಬೇಕಾದ ಹಣ",
+      consultationsTitle: "ನನ್ನ ಸಭೆಗಳ ಮಾಹಿತಿ",
+      noConsultations: "ನಮ್ಮೊಂದಿಗೆ ನಿಮ್ಮ ಯಾವುದೇ ಹಿಂದಿನ ಸಭೆಗಳಿಲ್ಲ."
+    },
+    adminPage: {
+      title: "ಸಿಬ್ಬಂದಿ ಕಾರ್ಯಸ್ಥಳ",
+      accessDenied: "ಪ್ರವೇಶ ನಿರಾಕರಿಸಲಾಗಿದೆ",
+      deniedMessage: "ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಲು ನಿಮಗೆ ಅನುಮತಿ ಇಲ್ಲ. ಸಿಬ್ಬಂದಿ ಗೂಗಲ್ ಲಾಗಿನ್ ಬಳಸುವಂತಿಲ್ಲ.",
+      inquiriesTab: "ಗ್ರಾಹಕ ಸಂದೇಶಗಳು",
+      staffTab: "ಸಿಬ್ಬಂದಿ ನಿರ್ವಹಣೆ",
+      updateMeeting: "ಸಭೆಯ ವಿವರಗಳನ್ನು ನವೀಕರಿಸಿ"
     }
   },
 
@@ -581,6 +713,39 @@ export const translations = {
       submittingBtn: "పంపుతున్నాము...",
       successMsg: "సందేశం విజయవంతంగా పంపబడింది. మేము త్వరలో మిమ్మల్ని సంప్రదిస్తాము.",
       errorMsg: "ఏదో తప్పు జరిగింది. దయచేసి మళ్ళీ ప్రయత్నించండి."
+    },
+    loginPage: {
+      loginTitle: "ఖాతాలోకి ప్రవేశించండి",
+      signUpTitle: "కొత్త ఖాతాను సృష్టించండి",
+      emailLabel: "ఈమెయిల్ చిరునామా",
+      passwordLabel: "పాస్‌వర్డ్",
+      submitLogin: "సురక్షితంగా ప్రవేశించండి",
+      submitSignUp: "సురక్షితంగా ఖాతాను సృష్టించండి",
+      googleBtn: "Google తో కొనసాగండి",
+      noAccountText: "ఇక్కడ కొత్తవారా?",
+      hasAccountText: "ఇప్పటికే ఖాతా ఉందా?",
+      switchSignUp: "ఖాతాను సృష్టించండి",
+      switchLogin: "ఇక్కడ ప్రవేశించండి",
+      errorMsg: "ఈమెయిల్ లేదా పాస్‌వర్ಡ್ తప్పు. దయచేసి మళ్ళీ ప్రయత్నించండి."
+    },
+    dashboardPage: {
+      title: "నా ఖాతా",
+      welcome: "తిరిగి స్వాగతం",
+      logoutBtn: "లాగ్ అవుట్",
+      goalsTitle: "నా దాచుకున్న ప్రణాళికలు",
+      noGoals: "మీరు ఇంకా ఏ ప్రణాళికలను దాచుకోలేదు. ప్రారంభించడానికి మా లెక్కల సాధనాలను ఉపయోగించండి.",
+      savedLabel: "పొదుపు చేసిన డబ్బు",
+      neededLabel: "అవసరమైన డబ్బు",
+      consultationsTitle: "నా సమావేశాల సమాచారం",
+      noConsultations: "మాతో మీకు గత సమావేశాలు ఏవీ లేవు."
+    },
+    adminPage: {
+      title: "సిబ్బంది పని ప్రాంతం",
+      accessDenied: "ప్రవేశం నిరాకరించబడింది",
+      deniedMessage: "ఈ పేజీని వీక్షించడానికి మీకు అనుమతి లేదు. సిబ్బంది గూగుల్ లాగిన్‌ను ఉపయోగించలేరు.",
+      inquiriesTab: "కస్టమర్ సందేశాలు",
+      staffTab: "సిబ్బంది నిర్వహణ",
+      updateMeeting: "సమావేశ వివరాలను నవీకరించండి"
     }
   },
 
@@ -698,6 +863,39 @@ export const translations = {
       submittingBtn: "அனுப்பப்படுகிறது...",
       successMsg: "செய்தி வெற்றிகரமாக அனுப்பப்பட்டது. நாங்கள் விரைவில் உங்களை தொடர்புகொள்வோம்.",
       errorMsg: "ஏதோ தவறு நடந்துவிட்டது. தயவுசெய்து மீண்டும் முயற்சிக்கவும்."
+    },
+    loginPage: {
+      loginTitle: "கணக்கில் உள்நுழைக",
+      signUpTitle: "புதிய கணக்கை உருவாக்கவும்",
+      emailLabel: "மின்னஞ்சல் முகவரி",
+      passwordLabel: "கடவுச்சொல்",
+      submitLogin: "பாதுகாப்பாக உள்நுழையவும்",
+      submitSignUp: "பாதுகாப்பாக கணக்கை உருவாக்கவும்",
+      googleBtn: "Google மூலம் தொடரவும்",
+      noAccountText: "புதியவரா?",
+      hasAccountText: "ஏற்கனவே கணக்கு உள்ளதா?",
+      switchSignUp: "புதிய கணக்கை உருவாக்கவும்",
+      switchLogin: "இங்கே உள்நுழையவும்",
+      errorMsg: "மின்னஞ்சல் அல்லது கடவுச்சொல் தவறானது. மீண்டும் முயற்சிக்கவும்."
+    },
+    dashboardPage: {
+      title: "என் கணக்கு",
+      welcome: "மீண்டும் வருக",
+      logoutBtn: "வெளியேறு",
+      goalsTitle: "என் சேமிப்பு திட்டங்கள்",
+      noGoals: "நீங்கள் இதுவரை எந்த திட்டங்களையும் சேமிக்கவில்லை. தொடங்க எங்கள் கணக்கீட்டு கருவிகளைப் பயன்படுத்தவும்.",
+      savedLabel: "சேமித்த பணம்",
+      neededLabel: "தேவையான பணம்",
+      consultationsTitle: "என் சந்திப்பு விவரங்கள்",
+      noConsultations: "எங்களுடன் உங்களுக்கு முந்தைய சந்திப்புகள் எதுவும் இல்லை."
+    },
+    adminPage: {
+      title: "பணியாளர் வேலைப் பகுதி",
+      accessDenied: "அனுமதி மறுக்கப்பட்டது",
+      deniedMessage: "இந்தப் பக்கத்தைப் பார்க்க உங்களுக்கு அனுமதி இல்லை. பணியாளர்கள் கூகுள் உள்நுழைவைப் பயன்படுத்த முடியாது.",
+      inquiriesTab: "வாடிக்கையாளர் செய்திகள்",
+      staffTab: "பணியாளர்களை நிர்வகிக்கவும்",
+      updateMeeting: "சந்திப்பு விவரங்களைப் புதுப்பிக்கவும்"
     }
   },
 
@@ -815,6 +1013,39 @@ export const translations = {
       submittingBtn: "അയയ്ക്കുന്നു...",
       successMsg: "സന്ദേശം വിജയകരമായി അയച്ചു. ഞങ്ങൾ ഉടൻ നിങ്ങളെ ബന്ധപ്പെടുന്നതാണ്.",
       errorMsg: "എന്തോ തെറ്റ് സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+    },
+    loginPage: {
+      loginTitle: "അക്കൗണ്ടിലേക്ക് ലോഗിൻ ചെയ്യുക",
+      signUpTitle: "പുതിയ അക്കൗണ്ട് ഉണ്ടാക്കുക",
+      emailLabel: "ഇമെയിൽ വിലാസം",
+      passwordLabel: "പാസ്‌വേഡ്",
+      submitLogin: "സുരക്ഷിതമായി ലോഗിൻ ചെയ്യുക",
+      submitSignUp: "സുരക്ഷിതമായി അക്കൗണ്ട് ഉണ്ടാക്കുക",
+      googleBtn: "Google വഴി തുടരുക",
+      noAccountText: "പുതിയ ആളാണോ?",
+      hasAccountText: "നിലവിൽ അക്കൗണ്ട് ഉണ്ടോ?",
+      switchSignUp: "ഒരെണ്ണം ഉണ്ടാക്കുക",
+      switchLogin: "ഇവിടെ ലോഗിൻ ചെയ്യുക",
+      errorMsg: "ഇമെയിൽ അല്ലെങ്കിൽ പാസ്‌വേഡ് തെറ്റാണ്. വീണ്ടും ശ്രമിക്കുക."
+    },
+    dashboardPage: {
+      title: "എന്റെ അക്കൗണ്ട്",
+      welcome: "വീണ്ടും സ്വാഗതം",
+      logoutBtn: "ലോഗ് ഔട്ട്",
+      goalsTitle: "സേവ് ചെയ്ത പ്ലാനുകൾ",
+      noGoals: "നിങ്ങൾ ഇതുവരെ പ്ലാനുകളൊന്നും സേവ് ചെയ്തിട്ടില്ല. പ്ലാൻ ചെയ്യാൻ ഞങ്ങളുടെ കണക്കുകൂട്ടൽ ടൂളുകൾ ഉപയോഗിക്കുക.",
+      savedLabel: "സമ്പാദിച്ച പണം",
+      neededLabel: "ആവശ്യമായ പണം",
+      consultationsTitle: "കൂടിക്കാഴ്ചകളുടെ വിവരങ്ങൾ",
+      noConsultations: "നിങ്ങൾക്ക് ഞങ്ങളുമായി മുൻകാല കൂടിക്കാഴ്ചകളൊന്നും ഉണ്ടായിട്ടില്ല."
+    },
+    adminPage: {
+      title: "സ്റ്റാഫ് വർക്ക് ഏരിയ",
+      accessDenied: "പ്രവേശനം നിഷേധിച്ചു",
+      deniedMessage: "നിങ്ങൾക്ക് ഈ പേജ് കാണാൻ അനുമതിയില്ല. സ്റ്റാഫിന് ഗൂഗിൾ ലോഗിൻ ഉപയോഗിക്കാൻ കഴിയില്ല.",
+      inquiriesTab: "ഉപഭോക്തൃ സന്ദേശങ്ങൾ",
+      staffTab: "സ്റ്റാഫിനെ കൈകാര്യം ചെയ്യുക",
+      updateMeeting: "മീറ്റിംഗ് വിവരങ്ങൾ പുതുക്കുക"
     }
   },
 
@@ -932,6 +1163,39 @@ export const translations = {
       submittingBtn: "મોકલાઈ રહ્યું છે...",
       successMsg: "સંદેશ સફળતાપૂર્વક મોકલવામાં આવ્યો છે. અમે ટૂંક સમયમાં તમારો સંપર્ક કરીશું.",
       errorMsg: "કંઈક ખોટું થયું. કૃપા કરીને ફરી પ્રયાસ કરો."
+    },
+    loginPage: {
+      loginTitle: "ખાતામાં પ્રવેશ કરો",
+      signUpTitle: "નવું ખાતું બનાવો",
+      emailLabel: "ઈમેલ સરનામું",
+      passwordLabel: "પાસવર્ડ",
+      submitLogin: "સુરક્ષિત રીતે પ્રવેશ કરો",
+      submitSignUp: "સુરક્ષિત રીતે ખાતું બનાવો",
+      googleBtn: "Google સાથે આગળ વધો",
+      noAccountText: "અહીં નવા છો?",
+      hasAccountText: "શું તમારી પાસે પહેલેથી ખાતું છે?",
+      switchSignUp: "નવું બનાવો",
+      switchLogin: "અહીં પ્રવેશ કરો",
+      errorMsg: "ઈમેલ અથવા પાસવર્ડ ખોટો છે. કૃપા કરીને ફરી પ્રયાસ કરો."
+    },
+    dashboardPage: {
+      title: "મારું ખાતું",
+      welcome: "ફરી સ્વાગત છે",
+      logoutBtn: "બહાર નીકળો",
+      goalsTitle: "મારી સાચવેલી યોજનાઓ",
+      noGoals: "તમે હજી સુધી કોઈ યોજનાઓ સાચવી નથી. શરૂ કરવા માટે અમારા ગણતરી સાધનોનો ઉપયોગ કરો.",
+      savedLabel: "બચાવેલા પૈસા",
+      neededLabel: "જરૂરી પૈસા",
+      consultationsTitle: "મારી મુલાકાતોની માહિતી",
+      noConsultations: "અમારી સાથે તમારી કોઈ જૂની મુલાકાત નથી."
+    },
+    adminPage: {
+      title: "સ્ટાફ કાર્યક્ષેત્ર",
+      accessDenied: "પ્રવેશ નકારવામાં આવ્યો",
+      deniedMessage: "તમને આ પૃષ્ઠ જોવાની પરવાનગી નથી. સ્ટાફ ગૂગલ લોગિનનો ઉપયોગ કરી શકતા નથી.",
+      inquiriesTab: "ગ્રાહક સંદેશાઓ",
+      staffTab: "સ્ટાફનું સંચાલન કરો",
+      updateMeeting: "મીટિંગની વિગતો અપડેટ કરો"
     }
   },
 
@@ -1049,6 +1313,39 @@ export const translations = {
       submittingBtn: "ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
       successMsg: "ਸੁਨੇਹਾ ਸਫਲਤਾਪੂਰਵਕ ਭੇਜਿਆ ਗਿਆ। ਅਸੀਂ ਜਲਦੀ ਹੀ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪರ್ਕ ਕਰਾਂਗੇ।",
       errorMsg: "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    loginPage: {
+      loginTitle: "ਖਾਤੇ ਵਿੱਚ ਲਾਗਇਨ ਕਰੋ",
+      signUpTitle: "ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ",
+      emailLabel: "ਈਮੇਲ ਪਤਾ",
+      passwordLabel: "ਪਾਸਵਰਡ",
+      submitLogin: "ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਲਾਗਇਨ ਕਰੋ",
+      submitSignUp: "ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਖਾਤਾ ਬਣਾਓ",
+      googleBtn: "Google ਨਾਲ ਅੱਗੇ ਵਧੋ",
+      noAccountText: "ਨਵੇਂ ਹੋ?",
+      hasAccountText: "ਕੀ ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?",
+      switchSignUp: "ਖਾਤਾ ਬਣਾਓ",
+      switchLogin: "ਇੱਥੇ ਲਾਗਇਨ ਕਰੋ",
+      errorMsg: "ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    dashboardPage: {
+      title: "ਮੇਰਾ ਖਾਤਾ",
+      welcome: "ਵਾਪਸੀ 'ਤੇ ਜੀ ਆਇਆਂ ਨੂੰ",
+      logoutBtn: "ਲਾਗ ਆਉਟ",
+      goalsTitle: "ਮੇਰੀਆਂ ਸਾਂਭੀਆਂ ਯੋਜਨਾਵਾਂ",
+      noGoals: "ਤੁਸੀਂ ਹਜੇ ਤੱਕ ਕੋਈ ਯੋਜਨਾ ਨਹੀਂ ਸਾਂਭੀ। ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਸਾਡੇ ਹਿਸਾਬ ਟੂਲ ਦੀ ਵਰਤੋਂ ਕਰੋ।",
+      savedLabel: "ਜੋੜਿਆ ਗਿਆ ਪੈਸਾ",
+      neededLabel: "ਲੋੜੀਂਦਾ ਪੈਸਾ",
+      consultationsTitle: "ਮੇਰੀਆਂ ਮੀਟਿੰਗਾਂ ਦੀ ਜਾਣਕਾਰੀ",
+      noConsultations: "ਸਾਡੇ ਨਾਲ ਤੁਹਾਡੀ ਕੋਈ ਪਿਛਲੀ ਮੀਟਿੰਗ ਨਹੀਂ ਹੈ।"
+    },
+    adminPage: {
+      title: "ਸਟਾਫ ਕੰਮ ਦਾ ਖੇਤਰ",
+      accessDenied: "ਪਹੁੰਚ ਤੋਂ ਇਨਕਾਰ",
+      deniedMessage: "ਤੁਹਾਨੂੰ ਇਹ ਪੰਨਾ ਦੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਸਟਾਫ ਗੂਗਲ ਲਾਗਇਨ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰ ਸਕਦੇ।",
+      inquiriesTab: "ਗਾਹਕ ਦੇ ਸੁਨੇਹੇ",
+      staffTab: "ਸਟਾਫ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
+      updateMeeting: "ਮੀਟਿੰਗ ਦੇ ਵੇਰਵੇ ਅਪਡੇਟ ਕਰੋ"
     }
   },
 
@@ -1166,6 +1463,39 @@ export const translations = {
       submittingBtn: "পাঠানো হচ্ছে...",
       successMsg: "বার্তা সফলভাবে পাঠানো হয়েছে। আমরা শীঘ্রই আপনার সাথে যোগাযোগ করব।",
       errorMsg: "কিছু ভুল হয়েছে। আবার চেষ্টা করুন।"
+    },
+    loginPage: {
+      loginTitle: "অ্যাকাউন্টে লগইন করুন",
+      signUpTitle: "নতুন অ্যাকাউন্ট খুলুন",
+      emailLabel: "ইমেল ঠিকানা",
+      passwordLabel: "পাসওয়ার্ড",
+      submitLogin: "নিরাপদে লগইন করুন",
+      submitSignUp: "নিরাপদে অ্যাকাউন্ট খুলুন",
+      googleBtn: "Google দিয়ে চালিয়ে যান",
+      noAccountText: "এখানে নতুন?",
+      hasAccountText: "আগেই অ্যাকাউন্ট আছে?",
+      switchSignUp: "নতুন তৈরি করুন",
+      switchLogin: "এখানে লগইন করুন",
+      errorMsg: "ইমেল বা পাসওয়ার্ড ভুল। আবার চেষ্টা করুন।"
+    },
+    dashboardPage: {
+      title: "আমার প্রোফাইল",
+      welcome: "ফিরে আসায় স্বাগতম",
+      logoutBtn: "লগ আউট",
+      goalsTitle: "আমার জমানো পরিকল্পনা",
+      noGoals: "আপনি এখনও কোনো পরিকল্পনা জমা করেননি। শুরু করতে আমাদের হিসাব নিকাশ টুল ব্যবহার করুন।",
+      savedLabel: "জমানো টাকা",
+      neededLabel: "প্রয়োজনীয় টাকা",
+      consultationsTitle: "আমার মিটিংয়ের তথ্য",
+      noConsultations: "আমাদের সাথে আপনার কোনো পুরোনো মিটিং নেই।"
+    },
+    adminPage: {
+      title: "কর্মী কাজের এলাকা",
+      accessDenied: "প্রবেশাধিকার অস্বীকার করা হয়েছে",
+      deniedMessage: "আপনার এই পৃষ্ঠাটি দেখার অনুমতি নেই। কর্মীরা গুগল লগইন ব্যবহার করতে পারবেন না।",
+      inquiriesTab: "গ্রাহকের বার্তা",
+      staffTab: "কর্মী পরিচালনা করুন",
+      updateMeeting: "মিটিংয়ের তথ্য আপডেট করুন"
     }
   },
 
@@ -1283,6 +1613,39 @@ export const translations = {
       submittingBtn: "ପଠାଯାଉଛି...",
       successMsg: "ବାର୍ତ୍ତା ସଫଳତାର ସହ ପଠାଗଲା। ଆମେ ଶୀଘ୍ର ଆପଣଙ୍କ ସହ ଯୋଗାଯୋଗ କରିବୁ।",
       errorMsg: "କିଛି ଭୁଲ୍ ହୋଇଗଲା। ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"
+    },
+    loginPage: {
+      loginTitle: "ଖାତାରେ ଲଗଇନ୍ କରନ୍ତୁ",
+      signUpTitle: "ନୂଆ ଖାତା ଖୋଲନ୍ତୁ",
+      emailLabel: "ଇମେଲ୍ ଠିକଣା",
+      passwordLabel: "ପାସୱାର୍ଡ",
+      submitLogin: "ସୁରକ୍ଷିତ ଭାବେ ଲଗଇନ୍ କରନ୍ତୁ",
+      submitSignUp: "ସୁରକ୍ଷିତ ଭାବେ ଖାତା ଖୋଲନ୍ତୁ",
+      googleBtn: "Google ସହ ଆଗକୁ ବଢ଼ନ୍ତୁ",
+      noAccountText: "ଏଠାରେ ନୂଆ କି?",
+      hasAccountText: "ଆଗରୁ ଖାତା ଅଛି କି?",
+      switchSignUp: "ଖାତା ଖୋଲନ୍ତୁ",
+      switchLogin: "ଏଠାରେ ଲଗଇନ୍ କରନ୍ତୁ",
+      errorMsg: "ଇମେଲ୍ କିମ୍ବା ପାସୱାର୍ଡ ଭୁଲ୍ ଅଛି। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"
+    },
+    dashboardPage: {
+      title: "ମୋ ଖାତା",
+      welcome: "ପୁଣି ସ୍ୱାଗତ",
+      logoutBtn: "ଲଗ୍ ଆଉଟ୍",
+      goalsTitle: "ମୋର ସୁରକ୍ଷିତ ଯୋଜନା",
+      noGoals: "ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ଯୋଜନା ସୁରକ୍ଷିତ କରିନାହାଁନ୍ତି। ଆରମ୍ଭ କରିବାକୁ ଆମର ହିସାବ ଉପକରଣ ବ୍ୟବହାର କରନ୍ତୁ।",
+      savedLabel: "ସଞ୍ଚୟ ହୋଇଥିବା ଟଙ୍କା",
+      neededLabel: "ଦରକାରୀ ଟଙ୍କା",
+      consultationsTitle: "ମୋର ବୈଠକ ବିବରଣୀ",
+      noConsultations: "ଆମ ସହ ଆପଣଙ୍କର କୌଣସି ପୁରୁଣା ବୈଠକ ନାହିଁ।"
+    },
+    adminPage: {
+      title: "କର୍ମଚାରୀ କାର୍ଯ୍ୟକ୍ଷେତ୍ର",
+      accessDenied: "ପ୍ରବେଶ ଅସ୍ୱୀକୃତ",
+      deniedMessage: "ଆପଣଙ୍କୁ ଏହି ପୃଷ୍ଠା ଦେଖିବାକୁ ଅନୁମତି ନାହିଁ। କର୍ମଚାରୀମାନେ ଗୁଗଲ୍ ଲଗଇନ୍ ବ୍ୟବହାର କରିପାରିବେ ନାହିଁ।",
+      inquiriesTab: "ଗ୍ରାହକ ବାର୍ତ୍ତା",
+      staffTab: "କର୍ମଚାରୀ ପରିଚାଳନା",
+      updateMeeting: "ବୈଠକ ବିବରଣୀ ଅପଡେଟ୍ କରନ୍ତୁ"
     }
   },
 
@@ -1338,7 +1701,7 @@ export const translations = {
       emailPlaceholder: "আপোনাৰ ইমেইল লিখক",
       subscribeBtn: "যোগদান কৰক",
       addressTitle: "কাৰ্যালয়ৰ ঠিকনা",
-      addressText: "কাৰ্যালয় নং ২০, চতুৰ্থ মহলা, অনিক্স বিজমাৰ্ক ৫২, তিলেকাৰ নগৰ, কন্ধৱা বুদ্ৰুক, পুণে, মহাৰাষ্ট্ৰ ৪۱১০৪৮",
+      addressText: "কাৰ্যালয় নং ২০, চতুৰ্থ মহলা, অনিক্স বিজমাৰ্ক ৫২, তিলেকাৰ নগৰ, কন্ধৱা বুদ্ৰুক, পুণে, মহাৰাষ্ট্ৰ ৪১১০৪৮",
       socialTitle: "আমাক অনুসৰণ কৰক",
       privacyLink: "গোপনীয়তা নীতি",
       termsLink: "নিয়মাৱলী",
@@ -1400,6 +1763,39 @@ export const translations = {
       submittingBtn: "পঠিয়াই থকা হৈছে...",
       successMsg: "বাৰ্তা সফলতাৰে পঠিওৱা হ’ল। আমি সোনকালেই আপোনাৰ লগত যোগাযোগ কৰিম।",
       errorMsg: "কিবা ভুল হ’ল। অনুগ্ৰহ কৰি আকৌ চেষ্টা কৰক।"
+    },
+    loginPage: {
+      loginTitle: "একাউণ্টত লগইন কৰক",
+      signUpTitle: "নতুন একাউণ্ট খোলক",
+      emailLabel: "ইমেইল ঠিকনা",
+      passwordLabel: "পাছৱৰ্ড",
+      submitLogin: "সুৰক্ষিতভাৱে লগইন কৰক",
+      submitSignUp: "সুৰক্ষিতভাৱে একাউণ্ট খোলক",
+      googleBtn: "Google ৰ সৈতে আগবাঢ়ক",
+      noAccountText: "ইয়াত নতুন নেকি?",
+      hasAccountText: "আগতেই একাউণ্ট আছে নেকি?",
+      switchSignUp: "নতুন একাউণ্ট খোলক",
+      switchLogin: "ইয়াত লগইন কৰক",
+      errorMsg: "ইমেইল বা পাছৱৰ্ড ভুল হৈছে। আকৌ চেষ্টা কৰক।"
+    },
+    dashboardPage: {
+      title: "মোৰ একাউন্ট",
+      welcome: "পুনৰ স্বাগতম",
+      logoutBtn: "লগ আউট",
+      goalsTitle: "মোৰ সংৰক্ষিত পৰিকল্পনাসমূহ",
+      noGoals: "আপুনি এতিয়ালৈকে কোনো পৰিকল্পনা সংৰক্ষণ কৰা নাই। আৰম্ভ কৰিবলৈ আমাৰ হিচাপৰ আহিলা ব্যৱহাৰ কৰক।",
+      savedLabel: "সঞ্চয় কৰা ধন",
+      neededLabel: "প্ৰয়োজনীয় ধন",
+      consultationsTitle: "মোৰ মিটিংৰ তথ্য",
+      noConsultations: "আমাৰ সৈতে আপোনাৰ কোনো পুৰণি মিটিং নাই।"
+    },
+    adminPage: {
+      title: "কৰ্মচাৰীৰ কৰ্মক্ষেত্ৰ",
+      accessDenied: "প্ৰৱেশ নাকচ কৰা হৈছে",
+      deniedMessage: "আপোনাৰ এই পৃষ্ঠা চাবলৈ অনুমতি নাই। কৰ্মচাৰীসকলে গুগল লগইন ব্যৱহাৰ কৰিব নোৱাৰে।",
+      inquiriesTab: "গ্ৰাহকৰ বাৰ্তা",
+      staffTab: "কৰ্মচাৰী পৰিচালনা কৰক",
+      updateMeeting: "মিটিঙৰ বিৱৰণ আপডেইট কৰক"
     }
   },
 
@@ -1517,6 +1913,39 @@ export const translations = {
       submittingBtn: "بھیجا جا رہا ہے...",
       successMsg: "پیغام کامیابی سے بھیج دیا گیا۔ ہم جلد ہی آپ سے رابطہ کریں گے۔",
       errorMsg: "کچھ غلط ہو گیا۔ براہ کرم دوبارہ کوشش کریں۔"
+    },
+    loginPage: {
+      loginTitle: "اپنے اکاؤنٹ میں لاگ ان کریں",
+      signUpTitle: "نیا اکاؤنٹ بنائیں",
+      emailLabel: "ای میل کا پتہ",
+      passwordLabel: "پاس ورڈ",
+      submitLogin: "محفوظ طریقے سے لاگ ان کریں",
+      submitSignUp: "محفوظ طریقے سے اکاؤنٹ بنائیں",
+      googleBtn: "Google کے ساتھ جاری رکھیں",
+      noAccountText: "یہاں نئے ہیں؟",
+      hasAccountText: "کیا پہلے سے اکاؤنٹ ہے؟",
+      switchSignUp: "اکاؤنٹ بنائیں",
+      switchLogin: "یہاں لاگ ان کریں",
+      errorMsg: "ای میل یا پاس ورڈ غلط ہے۔ براہ کرم دوبارہ کوشش کریں۔"
+    },
+    dashboardPage: {
+      title: "میرا کھاتہ",
+      welcome: "واپسی پر خوش آمدید",
+      logoutBtn: "لاگ آؤٹ",
+      goalsTitle: "میرے محفوظ کردہ منصوبے",
+      noGoals: "آپ نے ابھی تک کوئی منصوبہ محفوظ نہیں کیا ہے۔ شروع کرنے کے لئے ہمارے حساب کتاب ٹولز استعمال کریں۔",
+      savedLabel: "جمع شدہ رقم",
+      neededLabel: "مطلوبہ رقم",
+      consultationsTitle: "میری ملاقاتوں کی معلومات",
+      noConsultations: "ہمارے ساتھ آپ کی کوئی پرانی ملاقات نہیں ہے۔"
+    },
+    adminPage: {
+      title: "اسٹاف کے کام کی جگہ",
+      accessDenied: "رسائی سے انکار",
+      deniedMessage: "آپ کو یہ صفحہ دیکھنے کی اجازت نہیں ہے۔ اسٹاف گوگل لاگ ان استعمال نہیں کر سکتے۔",
+      inquiriesTab: "صارفین کے پیغامات",
+      staffTab: "اسٹاف کا انتظام کریں",
+      updateMeeting: "ملاقات کی تفصیلات اپ ڈیٹ کریں"
     }
   }
 };
