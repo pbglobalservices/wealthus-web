@@ -173,6 +173,29 @@ export const translations = {
       inquiriesTab: "Customer Messages",
       staffTab: "Manage Staff",
       updateMeeting: "Update Meeting details"
+    },
+    learnPage: {
+      title: "Financial Learning Centre",
+      subtitle: "Understand money with simple words",
+      tabRoadmap: "Learning Roadmap",
+      tabGlossary: "Money Dictionary",
+      tabRisk: "Investment Risks",
+      roadmapStep1Title: "Save Before You Invest",
+      roadmapStep1Desc: "Build an emergency fund covering six months of household expenses to stay safe.",
+      roadmapStep2Title: "Clear High-Cost Loans",
+      roadmapStep2Desc: "Pay off expensive credit cards and personal loans before investing new money.",
+      roadmapStep3Title: "Start Small",
+      roadmapStep3Desc: "Begin with a small monthly savings plan to build a strong and safe habit.",
+      termMutualFund: "Mutual Fund",
+      descMutualFund: "A pool of money from many people used by experts to buy a secure group of assets.",
+      termSIP: "Monthly Savings Plan (SIP)",
+      descSIP: "Putting a fixed, small amount of money into your savings account every single month.",
+      termInflation: "Inflation",
+      descInflation: "The way things get more expensive over time, reducing what your money can buy.",
+      riskMarketTitle: "Market Changes",
+      riskMarketDesc: "The value of investments goes up and down daily based on business conditions.",
+      riskInflationTitle: "Purchasing Power Loss",
+      riskInflationDesc: "If your money grows slower than prices rise, you lose buying power over time."
     }
   },
 
@@ -350,6 +373,29 @@ export const translations = {
       inquiriesTab: "ग्राहक संदेश",
       staffTab: "कर्मचारी प्रबंधित करें",
       updateMeeting: "बैठक का विवरण अपडेट करें"
+    },
+    learnPage: {
+      title: "वित्तीय ज्ञान केंद्र",
+      subtitle: "आसान शब्दों में पैसों को समझें",
+      tabRoadmap: "सीखने का रास्ता",
+      tabGlossary: "पैसों का शब्दकोश",
+      tabRisk: "निवेश के खतरे",
+      roadmapStep1Title: "निवेश से पहले बचत करें",
+      roadmapStep1Desc: "सुरक्षित रहने के लिए छह महीने के घरेलू खर्च के बराबर आपातकालीन फंड बनाएं।",
+      roadmapStep2Title: "महंगे कर्ज चुकाएं",
+      roadmapStep2Desc: "नया पैसा लगाने से पहले महंगे क्रेडिट कार्ड और पर्सनल लोन चुकाएं।",
+      roadmapStep3Title: "छोटी शुरुआत करें",
+      roadmapStep3Desc: "एक मजबूत और सुरक्षित आदत बनाने के लिए हर महीने छोटी बचत योजना शुरू करें।",
+      termMutualFund: "म्यूचुअल फंड",
+      descMutualFund: "कई लोगों का पैसा जिसे विशेषज्ञ सुरक्षित संपत्तियों में लगाते हैं।",
+      termSIP: "मासिक बचत योजना (SIP)",
+      descSIP: "हर महीने अपने बचत खाते में एक तय छोटी रकम डालना।",
+      termInflation: "महंगाई",
+      descInflation: "समय के साथ चीजों का महंगा होना, जिससे आपके पैसे की ताकत कम हो जाती है।",
+      riskMarketTitle: "बाजार के उतार-चढ़ाव",
+      riskMarketDesc: "कारोबार के हालात के हिसाब से निवेश की कीमत रोज घटती-बढ़ती है।",
+      riskInflationTitle: "खरीदने की ताकत में कमी",
+      riskInflationDesc: "अगर आपका पैसा महंगाई से धीरे बढ़ता है, तो समय के साथ आपकी खरीदने की ताकत कम हो जाती है।"
     }
   },
 
@@ -527,6 +573,29 @@ export const translations = {
       inquiriesTab: "ग्राहक संदेश",
       staffTab: "कर्मचारी व्यवस्थापन",
       updateMeeting: "बैठक तपशील अद्यतनित करा"
+    },
+    learnPage: {
+      title: "आर्थिक ज्ञान केंद्र",
+      subtitle: "सोप्या शब्दांत पैसा समजून घ्या",
+      tabRoadmap: "शिकण्याचा मार्ग",
+      tabGlossary: "पैशांचा शब्दकोश",
+      tabRisk: "गुंतवणुकीतील धोके",
+      roadmapStep1Title: "गुंतवणुकीपूर्वी बचत करा",
+      roadmapStep1Desc: "सुरक्षित राहण्यासाठी सहा महिन्यांच्या घरखर्चाइतका आपत्कालीन निधी तयार करा.",
+      roadmapStep2Title: "महागडी कर्जे फेडा",
+      roadmapStep2Desc: "नवीन पैसे गुंतवण्यापूर्वी महागडी क्रेडिट कार्डे आणि वैयक्तिक कर्जे फेडा.",
+      roadmapStep3Title: "लहान सुरुवात करा",
+      roadmapStep3Desc: "एक मजबूत आणि सुरक्षित सवय लावण्यासाठी दरमहा लहान बचत योजना सुरू करा.",
+      termMutualFund: "म्युच्युअल फंड",
+      descMutualFund: "अनेक लोकांचे पैसे जे तज्ञ सुरक्षित मालमत्तांमध्ये गुंतवतात.",
+      termSIP: "मासिक बचत योजना (SIP)",
+      descSIP: "दरमहा आपल्या बचत खात्यात एक ठराविक लहान रक्कम भरणे.",
+      termInflation: "महागाई",
+      descInflation: "काळासोबत वस्तू महाग होणे, ज्यामुळे तुमच्या पैशांची ताकद कमी होते.",
+      riskMarketTitle: "बाजारातील चढ-उतार",
+      riskMarketDesc: "व्यवसायाच्या परिस्थितीनुसार गुंतवणुकीची किंमत दररोज कमी-जास्त होते.",
+      riskInflationTitle: "खरेदी क्षमता कमी होणे",
+      riskInflationDesc: "जर तुमचा पैसा महागाईपेक्षा हळू वाढत असेल, तर काळासोबत तुमची खरेदी क्षमता कमी होते."
     }
   },
 
@@ -704,6 +773,29 @@ export const translations = {
       inquiriesTab: "ಗ್ರಾಹಕ ಸಂದೇಶಗಳು",
       staffTab: "ಸಿಬ್ಬಂದಿ ನಿರ್ವಹಣೆ",
       updateMeeting: "ಸಭೆಯ ವಿವರಗಳನ್ನು ನವೀಕರಿಸಿ"
+    },
+    learnPage: {
+      title: "ಹಣಕಾಸು ಜ್ಞಾನ ಕೇಂದ್ರ",
+      subtitle: "ಸರಳ ಪದಗಳಲ್ಲಿ ಹಣವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ",
+      tabRoadmap: "ಕಲಿಯುವ ಮಾರ್ಗ",
+      tabGlossary: "ಹಣದ ಶಬ್ದಕೋಶ",
+      tabRisk: "ಹೂಡಿಕೆಯ ಅಪಾಯಗಳು",
+      roadmapStep1Title: "ಹೂಡಿಕೆಗೂ ಮುನ್ನ ಉಳಿತಾಯ ಮಾಡಿ",
+      roadmapStep1Desc: "ಸುರಕ್ಷಿತವಾಗಿರಲು ಆರು ತಿಂಗಳ ಮನೆ ಖರ್ಚಿಗೆ ಬೇಕಾಗುವಷ್ಟು ತುರ್ತು ನಿಧಿಯನ್ನು ಮಾಡಿ.",
+      roadmapStep2Title: "ದುಬಾರಿ ಸಾಲಗಳನ್ನು ತೀರಿಸಿ",
+      roadmapStep2Desc: "ಹೊಸ ಹಣವನ್ನು ಹೂಡುವ ಮೊದಲು ದುಬಾರಿ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಮತ್ತು ವೈಯಕ್ತಿಕ ಸಾಲಗಳನ್ನು ತೀರಿಸಿ.",
+      roadmapStep3Title: "ಸಣ್ಣ ಮೊತ್ತದಿಂದ ಪ್ರಾರಂಭಿಸಿ",
+      roadmapStep3Desc: "ಉತ್ತಮ ಅಭ್ಯಾಸವನ್ನು ಬೆಳೆಸಲು ಪ್ರತಿ ತಿಂಗಳು ಸಣ್ಣ ಉಳಿತಾಯ ಯೋಜನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ.",
+      termMutualFund: "ಮ್ಯೂಚುವಲ್ ಫಂಡ್",
+      descMutualFund: "ಹಲವಾರು ಜನರಿಂದ ಸಂಗ್ರಹಿಸಿದ ಹಣವನ್ನು ತಜ್ಞರು ಸುರಕ್ಷಿತ ಆಸ್ತಿಗಳಲ್ಲಿ ತೊಡಗಿಸುವುದು.",
+      termSIP: "ಮಾಸಿಕ ಉಳಿತಾಯ ಯೋಜನೆ (SIP)",
+      descSIP: "ಪ್ರತಿ ತಿಂಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಣ್ಣ ಮೊತ್ತವನ್ನು ನಿಮ್ಮ ಉಳಿತಾಯ ಖಾತೆಗೆ ಹಾಕುವುದು.",
+      termInflation: "ಹಣದುಬ್ಬರ",
+      descInflation: "ಕಾಲಕ್ರಮೇಣ ವಸ್ತುಗಳು ದುಬಾರಿಯಾಗುವುದು, ಇದರಿಂದ ನಿಮ್ಮ ಹಣದ ಮೌಲ್ಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      riskMarketTitle: "ಮಾರುಕಟ್ಟೆಯ ಏರಿಳಿತಗಳು",
+      riskMarketDesc: "ವ್ಯಾಪಾರದ ಪರಿಸ್ಥಿತಿಗೆ ಅನುಗುಣವಾಗಿ ಹೂಡಿಕೆಯ ಮೌಲ್ಯ ಪ್ರತಿದಿನ ಏರಿಳಿತವಾಗುತ್ತದೆ.",
+      riskInflationTitle: "ಖರೀದಿ ಸಾಮರ್ಥ್ಯ ಕಳೆದುಕೊಳ್ಳುವುದು",
+      riskInflationDesc: "ನಿಮ್ಮ ಹಣ ಬೆಲೆ ಏರಿಕೆಗಿಂತ ನಿಧಾನವಾಗಿ ಬೆಳೆದರೆ, ನಿಮ್ಮ ಖರೀದಿ ಸಾಮರ್ಥ್ಯ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
     }
   },
 
@@ -881,6 +973,29 @@ export const translations = {
       inquiriesTab: "కస్టమర్ సందేశాలు",
       staffTab: "సిబ్బంది నిర్వహణ",
       updateMeeting: "సమావేశ వివరాలను నవీకరించండి"
+    },
+    learnPage: {
+      title: "ఆర్థిక జ్ఞాన కేంద్రం",
+      subtitle: "సులభమైన పదాల్లో డబ్బును అర్థం చేసుకోండి",
+      tabRoadmap: "నేర్చుకునే మార్గం",
+      tabGlossary: "డబ్బు పదకోశం",
+      tabRisk: "పెట్టుబడి నష్టాలు",
+      roadmapStep1Title: "పెట్టుబడికి ముందు పొదుపు చేయండి",
+      roadmapStep1Desc: "సురక్షితంగా ఉండటానికి ఆరు నెలల ఇంటి ఖర్చులకు సరిపడా అత్యవసర నిధిని ఏర్పాటు చేయండి.",
+      roadmapStep2Title: "ఖరీదైన అప్పులు తీర్చండి",
+      roadmapStep2Desc: "కొత్త డబ్బు పెట్టే ముందు ఖరీదైన క్రెడిట్ కార్డులు మరియు వ్యక్తిగత రుణాలు తీర్చండి.",
+      roadmapStep3Title: "చిన్నగా ప్రారంభించండి",
+      roadmapStep3Desc: "మంచి అలవాటును పెంచుకోవడానికి ప్రతి నెలా చిన్న పొదుపు పథకంతో ప్రారంభించండి.",
+      termMutualFund: "మ్యూచువల్ ఫండ్",
+      descMutualFund: "చాలా మంది నుండి సేకరించిన డబ్బును నిపుణులు సురక్షితమైన ఆస్తులలో పెట్టుబడి పెట్టడం.",
+      termSIP: "నెలవారీ పొదుపు పథకం (SIP)",
+      descSIP: "ప్రతి నెలా ఒక నిర్దిష్ట చిన్న మొత్తాన్ని మీ పొదుపు ఖాతాలో వేయడం.",
+      termInflation: "ద్రవ్యోల్బణం",
+      descInflation: "కాలక్రమేణా వస్తువులు ఖరీదైనవిగా మారడం, దీని వలన మీ డబ్బు విలువ తగ్గుతుంది.",
+      riskMarketTitle: "మార్కెట్ హెచ్చుతగ్గులు",
+      riskMarketDesc: "వ్యాపార పరిస్థితులను బట్టి పెట్టుబడి విలువ ప్రతిరోజూ పెరుగుతూ తగ్గుతూ ఉంటుంది.",
+      riskInflationTitle: "కొనుగోలు శక్తి కోల్పోవడం",
+      riskInflationDesc: "మీ డబ్బు ధరల పెరుగుదల కంటే నెమ్మదిగా పెరిగితే, మీ కొనుగోలు శక్తి తగ్గుతుంది."
     }
   },
 
@@ -1058,6 +1173,29 @@ export const translations = {
       inquiriesTab: "வாடிக்கையாளர் செய்திகள்",
       staffTab: "பணியாளர்களை நிர்வகிக்கவும்",
       updateMeeting: "சந்திப்பு விவரங்களைப் புதுப்பிக்கவும்"
+    },
+    learnPage: {
+      title: "நிதி அறிவு மையம்",
+      subtitle: "எளிய வார்த்தைகளில் பணத்தைப் புரிந்து கொள்ளுங்கள்",
+      tabRoadmap: "கற்கும் வழிமுறை",
+      tabGlossary: "பண அகராதி",
+      tabRisk: "முதலீட்டு அபாயங்கள்",
+      roadmapStep1Title: "முதலீடு செய்யும் முன் சேமிக்கவும்",
+      roadmapStep1Desc: "பாதுகாப்பாக இருக்க ஆறு மாத வீட்டுச் செலவுகளுக்குத் தேவையான அவசர நிதியை உருவாக்கவும்.",
+      roadmapStep2Title: "அதிக வட்டி கடன்களை அடைக்கவும்",
+      roadmapStep2Desc: "புதிய பணத்தை முதலீடு செய்யும் முன் அதிக வட்டி கொண்ட கடன்களை அடைத்துவிடவும்.",
+      roadmapStep3Title: "சிறிய அளவில் தொடங்கவும்",
+      roadmapStep3Desc: "நல்ல பழக்கத்தை உருவாக்க மாதந்தோறும் சிறிய சேமிப்புத் திட்டத்துடன் தொடங்கவும்.",
+      termMutualFund: "மியூச்சுவல் ஃபண்ட்",
+      descMutualFund: "பலரிடம் இருந்து பெறப்பட்ட பணத்தை நிபுணர்கள் பாதுகாப்பான இடங்களில் முதலீடு செய்வது.",
+      termSIP: "மாதாந்திர சேமிப்பு திட்டம் (SIP)",
+      descSIP: "ஒவ்வொரு மாதமும் ஒரு குறிப்பிட்ட சிறிய தொகையை உங்கள் சேமிப்பு கணக்கில் செலுத்துவது.",
+      termInflation: "பணவீக்கம்",
+      descInflation: "காலப்போக்கில் பொருட்களின் விலை உயர்வது, இதனால் உங்கள் பணத்தின் மதிப்பு குறையும்.",
+      riskMarketTitle: "சந்தை ஏற்ற இறக்கங்கள்",
+      riskMarketDesc: "வியாபார சூழ்நிலைகளுக்கு ஏற்ப முதலீட்டின் மதிப்பு தினமும் கூடும் மற்றும் குறையும்.",
+      riskInflationTitle: "வாங்கும் திறன் குறைதல்",
+      riskInflationDesc: "பொருட்களின் விலை உயர்வை விட உங்கள் பணம் மெதுவாக வளர்ந்தால், வாங்கும் திறன் குறையும்."
     }
   },
 
@@ -1235,6 +1373,29 @@ export const translations = {
       inquiriesTab: "ഉപഭോക്തൃ സന്ദേശങ്ങൾ",
       staffTab: "സ്റ്റാഫിനെ കൈകാര്യം ചെയ്യുക",
       updateMeeting: "മീറ്റിംഗ് വിവരങ്ങൾ പുതുക്കുക"
+    },
+    learnPage: {
+      title: "സാമ്പത്തിക പഠന കേന്ദ്രം",
+      subtitle: "ലളിതമായ വാക്കുകളിൽ പണം മനസ്സിലാക്കുക",
+      tabRoadmap: "പഠന വഴി",
+      tabGlossary: "പണ നിഘണ്ടു",
+      tabRisk: "നിക്ഷേപത്തിലെ അപകടങ്ങൾ",
+      roadmapStep1Title: "നിക്ഷേപിക്കുന്നതിന് മുമ്പ് സമ്പാദിക്കുക",
+      roadmapStep1Desc: "സുരക്ഷിതമായിരിക്കാൻ ആറുമാസത്തെ വീട്ടുചെലവുകൾക്കുള്ള അടിയന്തര ഫണ്ട് ഉണ്ടാക്കുക.",
+      roadmapStep2Title: "കൂടിയ പലിശയുള്ള കടങ്ങൾ തീർക്കുക",
+      roadmapStep2Desc: "പുതിയ പണം നിക്ഷേപിക്കുന്നതിന് മുമ്പ് ഉയർന്ന പലിശയുള്ള കടങ്ങൾ തീർക്കുക.",
+      roadmapStep3Title: "ചെറുതായി തുടങ്ങുക",
+      roadmapStep3Desc: "നല്ല ശീലം വളർത്താൻ എല്ലാ മാസവും ഒരു ചെറിയ സമ്പാദ്യ പദ്ധതിയിലൂടെ തുടങ്ങുക.",
+      termMutualFund: "മ്യൂച്വൽ ഫണ്ട്",
+      descMutualFund: "പലരിൽ നിന്നായി ശേഖരിച്ച പണം വിദഗ്ധർ സുരക്ഷിതമായ ആസ്തികളിൽ നിക്ഷേപിക്കുന്നത്.",
+      termSIP: "പ്രതിമാസ നിക്ഷേപ പദ്ധതി (SIP)",
+      descSIP: "എല്ലാ മാസവും ഒരു നിശ്ചിത ചെറിയ തുക നിങ്ങളുടെ സമ്പാദ്യത്തിലേക്ക് മാറ്റുന്നത്.",
+      termInflation: "പണപ്പെരുപ്പം",
+      descInflation: "കാലക്രമേണ സാധനങ്ങൾക്ക് വില കൂടുന്നത്, ഇത് നിങ്ങളുടെ പണത്തിന്റെ മൂല്യം കുറയ്ക്കുന്നു.",
+      riskMarketTitle: "വിപണിയിലെ മാറ്റങ്ങൾ",
+      riskMarketDesc: "വ്യാപാര സാഹചര്യങ്ങൾക്കനുസരിച്ച് നിക്ഷേപത്തിന്റെ മൂല്യം ദിവസവും കൂടുകയും കുറയുകയും ചെയ്യും.",
+      riskInflationTitle: "വാങ്ങൽ ശേഷി കുറയുന്നത്",
+      riskInflationDesc: "വിലക്കയറ്റത്തേക്കാൾ പതുക്കെയാണ് നിങ്ങളുടെ പണം വളരുന്നതെങ്കിൽ, നിങ്ങളുടെ വാങ്ങൽ ശേഷി കുറയും."
     }
   },
 
@@ -1412,6 +1573,29 @@ export const translations = {
       inquiriesTab: "ગ્રાહક સંદેશાઓ",
       staffTab: "સ્ટાફનું સંચાલન કરો",
       updateMeeting: "મીટિંગની વિગતો અપડેટ કરો"
+    },
+    learnPage: {
+      title: "નાણાકીય જ્ઞાન કેન્દ્ર",
+      subtitle: "સરળ શબ્દોમાં પૈસાને સમજો",
+      tabRoadmap: "શીખવાનો રસ્તો",
+      tabGlossary: "પૈસાનો શબ્દકોશ",
+      tabRisk: "રોકાણના જોખમો",
+      roadmapStep1Title: "રોકાણ કરતા પહેલા બચત કરો",
+      roadmapStep1Desc: "સુરક્ષિત રહેવા માટે છ મહિનાના ઘરખર્ચ જેટલું ઈમરજન્સી ફંડ બનાવો.",
+      roadmapStep2Title: "મોંઘી લોન ચૂકવો",
+      roadmapStep2Desc: "નવા પૈસા રોકતા પહેલા મોંઘા ક્રેડિટ કાર્ડ અને પર્સનલ લોન ચૂકવો.",
+      roadmapStep3Title: "નાની શરૂઆત કરો",
+      roadmapStep3Desc: "સારી આદત પાડવા માટે દર મહિને નાની બચત યોજનાથી શરૂઆત કરો.",
+      termMutualFund: "મ્યુચ્યુઅલ ફંડ",
+      descMutualFund: "ઘણા લોકોના પૈસા જે નિષ્ણાતો સુરક્ષિત સંપત્તિઓમાં રોકે છે.",
+      termSIP: "માસિક બચત યોજના (SIP)",
+      descSIP: "દર મહિને તમારા બચત ખાતામાં એક નક્કી કરેલી નાની રકમ જમા કરવી.",
+      termInflation: "મોંઘવારી",
+      descInflation: "સમય સાથે વસ્તુઓ મોંઘી થવી, જેનાથી તમારા પૈસાની તાકાત ઓછી થાય છે.",
+      riskMarketTitle: "બજારના ઉતાર-ચઢાવ",
+      riskMarketDesc: "ધંધાની સ્થિતિ પ્રમાણે રોકાણની કિંમત રોજ વધઘટ થાય છે.",
+      riskInflationTitle: "ખરીદ શક્તિમાં ઘટાડો",
+      riskInflationDesc: "જો તમારા પૈસા મોંઘવારી કરતા ધીમે વધે, તો સમય સાથે તમારી ખરીદ શક્તિ ઘટે છે."
     }
   },
 
@@ -1589,6 +1773,29 @@ export const translations = {
       inquiriesTab: "ਗਾਹਕ ਦੇ ਸੁਨੇਹੇ",
       staffTab: "ਸਟਾਫ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
       updateMeeting: "ਮੀਟਿੰਗ ਦੇ ਵੇਰਵੇ ਅਪਡੇਟ ਕਰੋ"
+    },
+    learnPage: {
+      title: "ਵਿੱਤੀ ਗਿਆਨ ਕੇਂਦਰ",
+      subtitle: "ਸੌਖੇ ਸ਼ਬਦਾਂ ਵਿੱਚ ਪੈਸੇ ਨੂੰ ਸਮਝੋ",
+      tabRoadmap: "ਸਿੱਖਣ ਦਾ ਰਸਤਾ",
+      tabGlossary: "ਪੈਸੇ ਦਾ ਸ਼ਬਦਕੋਸ਼",
+      tabRisk: "ਨਿਵੇਸ਼ ਦੇ ਖਤਰੇ",
+      roadmapStep1Title: "ਨਿਵੇਸ਼ ਤੋਂ ਪਹਿਲਾਂ ਬਚਤ ਕਰੋ",
+      roadmapStep1Desc: "ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਲਈ ਛੇ ਮਹੀਨਿਆਂ ਦੇ ਘਰੇਲੂ ਖਰਚੇ ਬਰਾਬਰ ਐਮਰਜੈਂਸੀ ਫੰਡ ਬਣਾਓ।",
+      roadmapStep2Title: "ਮਹਿੰਗੇ ਕਰਜ਼ੇ ਮੋੜੋ",
+      roadmapStep2Desc: "ਨਵਾਂ ਪੈਸਾ ਲਗਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਮਹਿੰਗੇ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਅਤੇ ਪਰਸਨਲ ਲੋਨ ਮੋੜੋ।",
+      roadmapStep3Title: "ਛੋਟੀ ਸ਼ੁਰੂਆਤ ਕਰੋ",
+      roadmapStep3Desc: "ਇੱਕ ਪੱਕੀ ਆਦਤ ਬਣਾਉਣ ਲਈ ਹਰ ਮਹੀਨੇ ਛੋਟੀ ਬਚਤ ਯੋਜਨਾ ਸ਼ੁਰੂ ਕਰੋ।",
+      termMutualFund: "ਮਿਊਚਲ ਫੰਡ",
+      descMutualFund: "ਕਈ ਲੋਕਾਂ ਦਾ ਪੈਸਾ ਜਿਸਨੂੰ ਮਾਹਰ ਸੁਰੱਖਿਅਤ ਥਾਵਾਂ 'ਤੇ ਲਗਾਉਂਦੇ ਹਨ।",
+      termSIP: "ਮਹੀਨਾਵਾਰ ਬਚਤ ਯੋਜਨਾ (SIP)",
+      descSIP: "ਹਰ ਮਹੀਨੇ ਆਪਣੇ ਬਚਤ ਖਾਤੇ ਵਿੱਚ ਇੱਕ ਪੱਕੀ ਛੋਟੀ ਰਕਮ ਜਮ੍ਹਾਂ ਕਰਨਾ।",
+      termInflation: "ਮਹਿੰਗਾਈ",
+      descInflation: "ਸਮੇਂ ਦੇ ਨਾਲ ਚੀਜ਼ਾਂ ਦਾ ਮਹਿੰਗਾ ਹੋਣਾ, ਜਿਸ ਨਾਲ ਤੁਹਾਡੇ ਪੈਸੇ ਦੀ ਤਾਕਤ ਘੱਟ ਜਾਂਦੀ ਹੈ।",
+      riskMarketTitle: "ਬਾਜ਼ਾਰ ਦੇ ਉਤਾਰ-ਚੜ੍ਹਾਅ",
+      riskMarketDesc: "ਕਾਰੋਬਾਰ ਦੇ ਹਾਲਾਤਾਂ ਮੁਤਾਬਕ ਨਿਵੇਸ਼ ਦੀ ਕੀਮਤ ਰੋਜ਼ਾਨਾ ਘੱਟਦੀ-ਵੱਧਦੀ ਹੈ।",
+      riskInflationTitle: "ਖਰੀਦਣ ਦੀ ਤਾਕਤ ਘਟਣਾ",
+      riskInflationDesc: "ਜੇਕਰ ਤੁਹਾਡਾ ਪੈਸਾ ਮਹਿੰਗਾਈ ਤੋਂ ਹੌਲੀ ਵੱਧਦਾ ਹੈ, ਤਾਂ ਤੁਹਾਡੀ ਖਰੀਦਣ ਦੀ ਤਾਕਤ ਘੱਟ ਜਾਂਦੀ ਹੈ।"
     }
   },
 
@@ -1766,6 +1973,29 @@ export const translations = {
       inquiriesTab: "গ্রাহকের বার্তা",
       staffTab: "কর্মী পরিচালনা করুন",
       updateMeeting: "মিটিংয়ের তথ্য আপডেট করুন"
+    },
+    learnPage: {
+      title: "আর্থিক শিক্ষা কেন্দ্র",
+      subtitle: "সহজ কথায় টাকা বুঝুন",
+      tabRoadmap: "শেখার পথ",
+      tabGlossary: "টাকার অভিধান",
+      tabRisk: "বিনিয়োগের ঝুঁকি",
+      roadmapStep1Title: "বিনিয়োগের আগে সঞ্চয় করুন",
+      roadmapStep1Desc: "সুরক্ষিত থাকতে ছয় মাসের সংসার খরচের সমান আপৎকালীন ফান্ড তৈরি করুন।",
+      roadmapStep2Title: "বেশি সুদের ঋণ শোধ করুন",
+      roadmapStep2Desc: "নতুন টাকা খাটানোর আগে দামি ক্রেডিট কার্ড এবং পার্সোনাল লোন শোধ করুন।",
+      roadmapStep3Title: "অল্প করে শুরু করুন",
+      roadmapStep3Desc: "ভালো অভ্যাস গড়তে প্রতি মাসে অল্প সঞ্চয় দিয়ে শুরু করুন।",
+      termMutualFund: "মিউচুয়াল ফান্ড",
+      descMutualFund: "অনেক মানুষের টাকা যা বিশেষজ্ঞরা সুরক্ষিত জায়গায় খাটান।",
+      termSIP: "মাসিক সঞ্চয় প্রকল্প (SIP)",
+      descSIP: "প্রতি মাসে আপনার সেভিংস অ্যাকাউন্টে একটি নির্দিষ্ট ছোট অঙ্কের টাকা জমা করা।",
+      termInflation: "মুদ্রাস্ফীতি (মূল্যবৃদ্ধি)",
+      descInflation: "সময়ের সাথে জিনিসপত্র দামি হওয়া, যার ফলে আপনার টাকার দাম কমে যায়।",
+      riskMarketTitle: "বাজারের ওঠানামা",
+      riskMarketDesc: "ব্যবসার পরিস্থিতি অনুযায়ী বিনিয়োগের দাম প্রতিদিন বাড়ে এবং কমে।",
+      riskInflationTitle: "কেনার ক্ষমতা কমে যাওয়া",
+      riskInflationDesc: "আপনার টাকা যদি জিনিসপত্রের দামের চেয়ে ধীরে বাড়ে, তবে সময়ের সাথে কেনার ক্ষমতা কমে।"
     }
   },
 
@@ -1943,6 +2173,29 @@ export const translations = {
       inquiriesTab: "ଗ୍ରାହକ ବାର୍ତ୍ତା",
       staffTab: "କର୍ମଚାରୀ ପରିଚାଳନା",
       updateMeeting: "ବୈଠକ ବିବରଣୀ ଅପଡେଟ୍ କରନ୍ତୁ"
+    },
+    learnPage: {
+      title: "ଆର୍ଥିକ ଶିକ୍ଷା କେନ୍ଦ୍ର",
+      subtitle: "ସରଳ ଶବ୍ଦରେ ଟଙ୍କାକୁ ବୁଝନ୍ତୁ",
+      tabRoadmap: "ଶିଖିବାର ବାଟ",
+      tabGlossary: "ଟଙ୍କା ଶବ୍ଦକୋଷ",
+      tabRisk: "ବିନିଯୋଗର ବିପଦ",
+      roadmapStep1Title: "ବିନିଯୋଗ ପୂର୍ବରୁ ସଞ୍ଚୟ କରନ୍ତୁ",
+      roadmapStep1Desc: "ସୁରକ୍ଷିତ ରହିବା ପାଇଁ ଛଅ ମାସର ଘର ଖର୍ଚ୍ଚ ସମାନ ଜରୁରୀକାଳୀନ ପାଣ୍ଠି ତିଆରି କରନ୍ତୁ।",
+      roadmapStep2Title: "ମହଙ୍ଗା ୠଣ ଶୁଝନ୍ତୁ",
+      roadmapStep2Desc: "ନୂଆ ଟଙ୍କା ଲଗାଇବା ପୂର୍ବରୁ ମହଙ୍ଗା କ୍ରେଡିଟ୍ କାର୍ଡ ଓ ପର୍ସନାଲ ଲୋନ୍ ଶୁଝନ୍ତୁ।",
+      roadmapStep3Title: "ଛୋଟରୁ ଆରମ୍ଭ କରନ୍ତୁ",
+      roadmapStep3Desc: "ଏକ ଭଲ ଅଭ୍ୟାସ ଗଢ଼ିବା ପାଇଁ ପ୍ରତି ମାସରେ ଛୋଟ ସଞ୍ଚୟ ଯୋଜନା ଆରମ୍ଭ କରନ୍ତୁ।",
+      termMutualFund: "ମ୍ୟୁଚୁଆଲ୍ ଫଣ୍ଡ୍",
+      descMutualFund: "ଅନେକ ଲୋକଙ୍କ ଟଙ୍କା ଯାହାକୁ ବିଶେଷଜ୍ଞମାନେ ସୁରକ୍ଷିତ ସ୍ଥାନରେ ଲଗାନ୍ତି।",
+      termSIP: "ମାସିକ ସଞ୍ଚୟ ଯୋଜନା (SIP)",
+      descSIP: "ପ୍ରତି ମାସରେ ଆପଣଙ୍କ ସଞ୍ଚୟ ଖାତାରେ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ଛୋଟ ରକମ ଜମା କରିବା।",
+      termInflation: "ମୁଦ୍ରାସ୍ଫୀତି (ମହଙ୍ଗା)",
+      descInflation: "ସମୟ ସହିତ ଜିନିଷର ଦାମ୍ ବଢ଼ିବା, ଯାହା ଆପଣଙ୍କ ଟଙ୍କାର ମୂଲ୍ୟ କମାଇଦିଏ।",
+      riskMarketTitle: "ବଜାରର ଉଠାଣି-ଗଡ଼ାଣି",
+      riskMarketDesc: "ବ୍ୟବସାୟ ସ୍ଥିତି ଅନୁସାରେ ବିନିଯୋଗର ମୂଲ୍ୟ ପ୍ରତିଦିନ କମେ ଓ ବଢ଼େ।",
+      riskInflationTitle: "କିଣିବା କ୍ଷମତା କମିବା",
+      riskInflationDesc: "ଯଦି ଆପଣଙ୍କ ଟଙ୍କା ଦରଦାମ୍ ଠାରୁ ଧୀରେ ବଢ଼େ, ତେବେ ସମୟ ସହିତ ଆପଣଙ୍କ କିଣିବା କ୍ଷମତା କମିଯାଏ।"
     }
   },
 
@@ -2120,6 +2373,29 @@ export const translations = {
       inquiriesTab: "গ্ৰাহকৰ বাৰ্তা",
       staffTab: "কৰ্মচাৰী পৰিচালনা কৰক",
       updateMeeting: "মিটিঙৰ বিৱৰণ আপডেইট কৰক"
+    },
+    learnPage: {
+      title: "আৰ্থিক জ্ঞান কেন্দ্ৰ",
+      subtitle: "সহজ কথাত ধনৰ বিষয়ে বুজি লওক",
+      tabRoadmap: "শিকাৰ পথ",
+      tabGlossary: "ধনৰ শব্দকোষ",
+      tabRisk: "বিনিয়োগৰ বিপদসমূহ",
+      roadmapStep1Title: "বিনিয়োগৰ আগতে সঞ্চয় কৰক",
+      roadmapStep1Desc: "সুৰক্ষিত হৈ থাকিবলৈ ছমাহৰ ঘৰুৱা খৰচৰ সমান জৰুৰীকালীন পুজি গঢ়ি তোলক।",
+      roadmapStep2Title: "অধিক সূতৰ ঋণ পৰিশোধ কৰক",
+      roadmapStep2Desc: "নতুন ধন বিনিয়োগ কৰাৰ আগতে দামী ক্ৰেডিট কাৰ্ড আৰু ব্যক্তিগত ঋণ পৰিশোধ কৰক।",
+      roadmapStep3Title: "সৰুকৈ আৰম্ভ কৰক",
+      roadmapStep3Desc: "এক সুৰক্ষিত অভ্যাস গঢ়িবলৈ প্ৰতিমাহে সৰু সঞ্চয় আঁচনি আৰম্ভ কৰক।",
+      termMutualFund: "মিউচুৱেল ফাণ্ড",
+      descMutualFund: "বহু লোকৰ ধন যাক বিশেষজ্ঞসকলে সুৰক্ষিত স্থানত বিনিয়োগ কৰে।",
+      termSIP: "মাহেকীয়া সঞ্চয় আঁচনি (SIP)",
+      descSIP: "প্ৰতিমাহে আপোনাৰ সঞ্চয় একাউণ্টত এক নিৰ্দিষ্ট সৰু পৰিমাণৰ ধন জমা কৰা।",
+      termInflation: "মুদ্ৰাস্ফীতি (মহামূলীয়া)",
+      descInflation: "সময়ৰ লগে লগে বস্তুৰ দাম বঢ়া, যাৰ ফলত আপোনাৰ ধনৰ মূল্য কমি যায়।",
+      riskMarketTitle: "বজাৰৰ উঠা-নমা",
+      riskMarketDesc: "ব্যৱসায়ৰ পৰিস্থিতি অনুসৰি বিনিয়োগৰ মূল্য প্ৰতিদিনে বাঢ়ে আৰু কমে।",
+      riskInflationTitle: "ক্ৰয় ক্ষমতা হ্ৰাস পোৱা",
+      riskInflationDesc: "যদি আপোনাৰ ধন সামগ্ৰীৰ দামতকৈ লাহে লাহে বাঢ়ে, তেন্তে সময়ৰ লগে লগে আপোনাৰ ক্ৰয় ক্ষমতা কমি যায়।"
     }
   },
 
@@ -2297,6 +2573,29 @@ export const translations = {
       inquiriesTab: "صارفین کے پیغامات",
       staffTab: "اسٹاف کا انتظام کریں",
       updateMeeting: "ملاقات کی تفصیلات اپ ڈیٹ کریں"
+    },
+    learnPage: {
+      title: "مالیاتی تعلیمی مرکز",
+      subtitle: "آسان الفاظ میں پیسوں کو سمجھیں",
+      tabRoadmap: "سیکھنے کا راستہ",
+      tabGlossary: "پیسوں کی لغت",
+      tabRisk: "سرمایہ کاری کے خطرات",
+      roadmapStep1Title: "سرمایہ کاری سے پہلے بچت کریں",
+      roadmapStep1Desc: "محفوظ رہنے کے لئے چھ مہینے کے گھریلو اخراجات کے برابر ایمرجنسی فنڈ بنائیں۔",
+      roadmapStep2Title: "مہنگے قرضے ادا کریں",
+      roadmapStep2Desc: "نئی رقم لگانے سے پہلے مہنگے کریڈٹ کارڈز اور ذاتی قرضے ادا کریں۔",
+      roadmapStep3Title: "چھوٹی شروعات کریں",
+      roadmapStep3Desc: "ایک مضبوط عادت بنانے کے لئے ہر مہینے چھوٹی بچت کا منصوبہ شروع کریں۔",
+      termMutualFund: "میوچل فنڈ",
+      descMutualFund: "بہت سے لوگوں کا پیسہ جسے ماہرین محفوظ جگہوں پر لگاتے ہیں۔",
+      termSIP: "ماہانہ بچت کا منصوبہ (SIP)",
+      descSIP: "ہر مہینے اپنے بچت کھاتے میں ایک مقررہ چھوٹی رقم جمع کرنا۔",
+      termInflation: "مہنگائی",
+      descInflation: "وقت کے ساتھ چیزوں کا مہنگا ہونا، جس سے آپ کے پیسے کی طاقت کم ہو جاتی ہے۔",
+      riskMarketTitle: "مارکیٹ کے اتار چڑھاؤ",
+      riskMarketDesc: "کاروبار کے حالات کے مطابق سرمایہ کاری کی قیمت روزانہ کم اور زیادہ ہوتی ہے۔",
+      riskInflationTitle: "خریدنے کی طاقت میں کمی",
+      riskInflationDesc: "اگر آپ کا پیسہ مہنگائی سے آہستہ بڑھتا ہے، تو وقت کے ساتھ آپ کی خریدنے کی طاقت کم ہو جاتی ہے۔"
     }
   }
 };
