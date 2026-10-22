@@ -73,7 +73,7 @@ export default function Footer() {
             <Link to="/insights" className="hover:text-[#14532d] transition-colors">{t('nav.insights')}</Link>
             <Link to="/learn" className="hover:text-[#14532d] transition-colors">{t('nav.learn')}</Link>
             <Link to="/safety" className="hover:text-[#14532d] transition-colors">{t('nav.safety')}</Link>
-            <Link to="/contact" className="hover:text-[#14532d] transition-colors">{t('nav.contact')}</Link>           
+            <Link to="/contact" className="hover:text-[#14532d] transition-colors">{t('nav.contact')}</Link>            
           </div>
           <div className="flex flex-col gap-3">
             <p className="font-semibold">{t('footer.addressTitle')}</p>
@@ -86,9 +86,12 @@ export default function Footer() {
             <a href="#" className="hover:text-[#14532d] transition-colors">Facebook</a>
           </div>
           <div className="flex flex-col gap-3">
+            <p className="font-semibold">{t('footer.regulatoryTitle')}</p>
+            <Link to="/sebi-resources" className="hover:text-[#14532d] transition-colors">{t('footer.sebiResourcesLink')}</Link>
+            <Link to="/grievance" className="hover:text-[#14532d] transition-colors">{t('footer.grievanceLink')}</Link>
             <Link to="/privacy" className="hover:text-[#14532d] transition-colors">{t('footer.privacyLink')}</Link>
             <Link to="/terms" className="hover:text-[#14532d] transition-colors">{t('footer.termsLink')}</Link>
-            <p className="mt-auto pt-8">{t('footer.copyright')}</p>
+            <p className="mt-auto pt-4">{t('footer.copyright')}</p>
           </div>
         </div>
 

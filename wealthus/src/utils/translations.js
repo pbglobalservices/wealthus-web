@@ -6,7 +6,9 @@ export const translations = {
       insights: "Guides",
       contact: "Contact Us",
       calculators: "Money Tools",
-      dashboard: "My Account"
+      dashboard: "My Account",
+      learn: "Learn",
+      safety: "Safety & Trust"
     },
     hero: {
       title: "Wealth Consultants for a Growth Mindset",
@@ -58,7 +60,10 @@ export const translations = {
       copyright: "2026 by WEALTHUS.",
       developedBy: "Developed and maintained by",
       coPoweredBy: "Co-powered by",
-      regulatoryNotice: "AMFI-registered Mutual Fund and SIF Distributor (ARN: 369276) | APMI Registered PMS Distributor (APRN: APRN06843) | AIF Distributor"
+      regulatoryNotice: "AMFI-registered Mutual Fund and SIF Distributor (ARN: 369276) | APMI Registered PMS Distributor (APRN: APRN06843) | AIF Distributor",
+      regulatoryTitle: "Important Links",
+      sebiResourcesLink: "SEBI / AMFI Resources",
+      grievanceLink: "Submit a Complaint"
     },
     aboutPage: {
       subtitle: "About Wealthus",
@@ -158,7 +163,9 @@ export const translations = {
       insights: "जानकारी",
       contact: "संपर्क करें",
       calculators: "हिसाब किताब",
-      dashboard: "खाता"
+      dashboard: "खाता",
+      learn: "सीखें",
+      safety: "सुरक्षा और विश्वास"
     },
     hero: {
       title: "आगे बढ़ने की सोच रखने वालों के लिए धन सलाहकार",
@@ -310,7 +317,9 @@ export const translations = {
       insights: "माहिती",
       contact: "संपर्क करा",
       calculators: "हिशोब साधने",
-      dashboard: "माझे खाते"
+      dashboard: "माझे खाते",
+      learn: "शिका",
+      safety: "सुरक्षा आणि विश्वास"
     },
     hero: {
       title: "प्रगतीची दिशा देणारे आपले आर्थिक मार्गदर्शक",
@@ -462,7 +471,9 @@ export const translations = {
       insights: "ಮಾಹಿತಿ",
       contact: "ಸಂಪರ್ಕಿಸಿ",
       calculators: "ಲೆಕ್ಕದ ಸಾಧನಗಳು",
-      dashboard: "ಖಾತೆ"
+      dashboard: "ಖಾತೆ",
+      learn: "ಕಲಿಯಿರಿ",
+      safety: "ಸುರಕ್ಷತೆ ಮತ್ತು ನಂಬಿಕೆ"
     },
     hero: {
       title: "ಮುಂದೆ ಸಾಗುವ ಮನಸ್ಸಿನವರಿಗೆ ಹಣಕಾಸು ಮಾರ್ಗದರ್ಶಿ",
@@ -614,7 +625,9 @@ export const translations = {
       insights: "సమాచారం",
       contact: "సంప్రదించండి",
       calculators: "లెక్కల సాధనాలు",
-      dashboard: "నా ఖాతా"
+      dashboard: "నా ఖాతా",
+      learn: "నేర్చుకోండి",
+      safety: "భద్రత మరియు నమ్మకం"
     },
     hero: {
       title: "ఎదగాలనే ఆలోచన ఉన్నవారికి ఆర్థిక మార్గదర్శి",
@@ -766,7 +779,9 @@ export const translations = {
       insights: "தகவல்கள்",
       contact: "தொடர்பு கொள்ள",
       calculators: "கணக்கீட்டு கருவிகள்",
-      dashboard: "என் கணக்கு"
+      dashboard: "என் கணக்கு",
+      learn: "கற்றுக்கொள்",
+      safety: "பாதுகாப்பு மற்றும் நம்பிக்கை"
     },
     hero: {
       title: "முன்னேற நினைக்கும் அனைவருக்கும் நிதி வழிகாட்டி",
@@ -918,7 +933,9 @@ export const translations = {
       insights: "വിവരങ്ങൾ",
       contact: "ബന്ധപ്പെടുക",
       calculators: "കണക്കുകൂട്ടലുകൾ",
-      dashboard: "എന്റെ അക്കൗണ്ട്"
+      dashboard: "എന്റെ അക്കൗണ്ട്",
+      learn: "പഠിക്കുക",
+      safety: "സുരക്ഷയും വിശ്വാസവും"
     },
     hero: {
       title: "വളർച്ച ആഗ്രഹിക്കുന്നവർക്കായി ഒരു സാമ്പത്തിക വഴികാട്ടി",
@@ -1070,7 +1087,9 @@ export const translations = {
       insights: "માહિતી",
       contact: "સંપર્ક કરો",
       calculators: "ગણતરી સાધનો",
-      dashboard: "મારું ખાતું"
+      dashboard: "મારું ખાતું",
+      learn: "શીખો",
+      safety: "સુરક્ષા અને વિશ્વાસ"
     },
     hero: {
       title: "આગળ વધવાની વિચારસરણી માટે સાચા નાણાકીય સલાહકાર",
@@ -1222,7 +1241,9 @@ export const translations = {
       insights: "ਜਾਣਕਾਰੀ",
       contact: "ਸੰਪਰਕ ਕਰੋ",
       calculators: "ਹਿਸਾਬ ਕਿਤਾਬ",
-      dashboard: "ਮੇਰਾ ਖਾਤਾ"
+      dashboard: "ਮੇਰਾ ਖਾਤਾ",
+      learn: "ਸਿੱਖੋ",
+      safety: "ਸੁਰੱਖਿਆ ਅਤੇ ਵਿਸ਼ਵਾਸ"
     },
     hero: {
       title: "ਤਰੱਕੀ ਦੀ ਸੋਚ ਰੱਖਣ ਵਾਲਿਆਂ ਲਈ ਸਹੀ ਸਲਾਹਕਾਰ",
@@ -1374,7 +1395,9 @@ export const translations = {
       insights: "জরুরি তথ্য",
       contact: "যোগাযোগ",
       calculators: "হিসাব নিকাশ",
-      dashboard: "আমার প্রোফাইল"
+      dashboard: "আমার প্রোফাইল",
+      learn: "শিখুন",
+      safety: "নিরাপত্তা এবং বিশ্বাস"
     },
     hero: {
       title: "এগিয়ে চলার ভাবনায় আপনার বিশ্বস্ত আর্থিক পথপ্রদর্শক",
@@ -1526,7 +1549,9 @@ export const translations = {
       insights: "ଜରୁରୀ ସୂଚନା",
       contact: "ଯୋଗାଯୋଗ",
       calculators: "ହିସାବ ଉପକରଣ",
-      dashboard: "ମୋ ଖାତା"
+      dashboard: "ମୋ ଖାତା",
+      learn: "ଶିଖନ୍ତୁ",
+      safety: "ସୁରକ୍ଷା ଏବଂ ବିଶ୍ୱାସ"
     },
     hero: {
       title: "ଆଗକୁ ବଢ଼ିବା ପାଇଁ ଆପଣଙ୍କ ପ୍ରକୃତ ଆର୍ଥିକ ସାଥୀ",
@@ -1678,7 +1703,9 @@ export const translations = {
       insights: "জনা বিষয়",
       contact: "যোগাযোগ",
       calculators: "হিচাপৰ আহিলা",
-      dashboard: "মোৰ একাউন্ট"
+      dashboard: "মোৰ একাউন্ট",
+      learn: "শিকক",
+      safety: "সুৰক্ষা আৰু বিশ্বাস"
     },
     hero: {
       title: "আগবাঢ়ি যাব খোজা লোকৰ বাবে উপযুক্ত পথপ্ৰদৰ্শক",
@@ -1830,7 +1857,9 @@ export const translations = {
       insights: "رہنمائی",
       contact: "رابطہ کریں",
       calculators: "حساب کتاب",
-      dashboard: "میرا کھاتہ"
+      dashboard: "میرا کھاتہ",
+      learn: "سیکھیں",
+      safety: "تحفظ اور اعتماد"
     },
     hero: {
       title: "ترقی کی سوچ رکھنے والوں کے لئے مالی رہنما",
