@@ -22,8 +22,26 @@ export default function Navbar() {
     <>
       <nav className="flex items-center justify-between px-8 py-6 max-w-7xl mx-auto w-full bg-[#f8f9fa] sticky top-0 z-40">
         
-        {/* Left Side: Desktop Links */}
+        {/* Left Side: Brand Logo & Desktop Links */}
         <div className="flex items-center gap-8">
+          
+          {/* Brand Logo: Left on mobile, Centered on desktop */}
+          <div className="flex flex-col items-start md:items-center md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
+            <Link to="/" onClick={closeMenu}>
+              <img 
+                src="https://i.postimg.cc/VNG3TFwH/wp-removebg-preview.png" 
+                alt="Wealthus" 
+                className="h-10 md:h-12 w-auto object-contain"
+                onError={(e) => {
+                  // Graceful fallback to logo.svg if named differently
+                  e.currentTarget.onerror = null;
+                  e.currentTarget.src = "/logo.svg";
+                }}
+              />
+            </Link>
+          </div>
+
+          {/* Desktop Links (Hidden on mobile) */}
           <div className="hidden md:flex gap-6 text-sm font-medium text-[#0a0a0a]">
             <Link to="/solutions" className="hover:text-[#14532d] transition-colors">{t('nav.solutions')}</Link>
             <Link to="/about" className="hover:text-[#14532d] transition-colors">{t('nav.about')}</Link>
@@ -31,22 +49,6 @@ export default function Navbar() {
             <Link to="/contact" className="hover:text-[#14532d] transition-colors">{t('nav.contact')}</Link>
             <Link to="/calculators" className="hover:text-[#14532d] transition-colors">{t('nav.calculators')}</Link>
           </div>
-        </div>
-
-        {/* Brand Logo: Left on mobile, Centered on desktop */}
-        <div className="flex flex-col items-start md:items-center static md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
-          <Link to="/" onClick={closeMenu}>
-            <img 
-              src="/logo2.svg" 
-              alt="Wealthus" 
-              className="h-10 md:h-22 w-auto object-contain"
-              onError={(e) => {
-                // Graceful fallback to logo.svg if named differently
-                e.currentTarget.onerror = null;
-                e.currentTarget.src = "/logo.svg";
-              }}
-            />
-          </Link>
         </div>
 
         {/* Right Side: Language & Auth */}
