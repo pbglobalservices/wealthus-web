@@ -71,7 +71,9 @@ export default function Footer() {
             <Link to="/solutions" className="hover:text-[#14532d] transition-colors">{t('nav.solutions')}</Link>
             <Link to="/about" className="hover:text-[#14532d] transition-colors">{t('nav.about')}</Link>
             <Link to="/insights" className="hover:text-[#14532d] transition-colors">{t('nav.insights')}</Link>
-            <Link to="/contact" className="hover:text-[#14532d] transition-colors">{t('nav.contact')}</Link>
+            <Link to="/learn" className="hover:text-[#14532d] transition-colors">{t('nav.learn')}</Link>
+            <Link to="/safety" className="hover:text-[#14532d] transition-colors">{t('nav.safety')}</Link>
+            <Link to="/contact" className="hover:text-[#14532d] transition-colors">{t('nav.contact')}</Link>           
           </div>
           <div className="flex flex-col gap-3">
             <p className="font-semibold">{t('footer.addressTitle')}</p>

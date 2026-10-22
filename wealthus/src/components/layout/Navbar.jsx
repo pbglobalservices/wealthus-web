@@ -48,7 +48,7 @@ export default function Navbar() {
             <Link to="/insights" className="hover:text-[#14532d] transition-colors">{t('nav.insights')}</Link>
             <Link to="/contact" className="hover:text-[#14532d] transition-colors">{t('nav.contact')}</Link>
             <Link to="/calculators" className="hover:text-[#14532d] transition-colors">{t('nav.calculators')}</Link>
-          </div>
+            </div>
         </div>
 
         {/* Right Side: Language & Auth */}
@@ -120,6 +120,8 @@ export default function Navbar() {
               <Link to="/insights" onClick={closeMenu} className="hover:text-[#f2a93b]">{t('nav.insights')}</Link>
               <Link to="/contact" onClick={closeMenu} className="hover:text-[#f2a93b]">{t('nav.contact')}</Link>
               <Link to="/calculators" onClick={closeMenu} className="hover:text-[#f2a93b]">{t('nav.calculators')}</Link>
+              <Link to="/learn" onClick={closeMenu} className="hover:text-[#f2a93b]">{t('nav.learn')}</Link>
+              <Link to="/safety" onClick={closeMenu} className="hover:text-[#f2a93b]">{t('nav.safety')}</Link>
             </div>
 
             <div className="mt-12 flex flex-col gap-6 border-t border-white/20 pt-8">
