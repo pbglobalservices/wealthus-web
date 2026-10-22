@@ -13,6 +13,8 @@ import Blog from './pages/Blog';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import AdminDashboard from './pages/AdminDashboard';
+import Learn from './pages/Learn';
+import Safety from './pages/Safety';
 
 export default function App() {
   return (
@@ -24,8 +26,12 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/solutions" element={<Solutions />} />
+            <Route path="/services" element={<Solutions />} />
             <Route path="/calculators" element={<Calculators />} />
             <Route path="/insights" element={<Blog />} />
+            <Route path="/learn" element={<Learn />} />
+            <Route path="/glossary" element={<Learn />} />
+            <Route path="/safety" element={<Safety />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/login" element={<Login />} />
             <Route path="/dashboard" element={<Dashboard />} />
