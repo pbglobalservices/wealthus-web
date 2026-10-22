@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Menu, X } from 'lucide-react';
+import { X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useLanguage } from '../../context/LanguageContext';
 import { useAuth } from '../../context/AuthContext';
@@ -33,10 +33,19 @@ export default function Navbar() {
           </div>
         </div>
 
-        {/* Center: Brand Logo */}
-        <div className="flex flex-col items-center absolute left-1/2 transform -translate-x-1/2">
-          <Link to="/" className="text-3xl font-serif text-[#14532d] font-semibold tracking-tight" onClick={closeMenu}>
-            Wealthus
+        {/* Brand Logo: Left on mobile, Centered on desktop */}
+        <div className="flex flex-col items-start md:items-center static md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
+          <Link to="/" onClick={closeMenu}>
+            <img 
+              src="/logo2.svg" 
+              alt="Wealthus" 
+              className="h-10 md:h-22 w-auto object-contain"
+              onError={(e) => {
+                // Graceful fallback to logo.svg if named differently
+                e.currentTarget.onerror = null;
+                e.currentTarget.src = "/logo.svg";
+              }}
+            />
           </Link>
         </div>
 
@@ -66,9 +75,24 @@ export default function Navbar() {
             )}
           </div>
 
-          {/* Mobile Hamburger Button */}
-          <button className="md:hidden z-50" onClick={() => setIsOpen(true)}>
-            <Menu className="w-8 h-8 text-[#14532d]" />
+          {/* Mobile Two-Line Hamburger Button */}
+          <button 
+            className="md:hidden z-50 p-1 flex items-center justify-center focus:outline-none" 
+            onClick={() => setIsOpen(true)}
+            aria-label="Open menu"
+          >
+            <svg 
+              className="w-8 h-8 text-[#14532d]" 
+              viewBox="0 0 24 24" 
+              fill="none" 
+              stroke="currentColor" 
+              strokeWidth="2.2" 
+              strokeLinecap="round" 
+              strokeLinejoin="round"
+            >
+              <line x1="4" y1="8" x2="20" y2="8" />
+              <line x1="4" y1="16" x2="20" y2="16" />
+            </svg>
           </button>
         </div>
       </nav>
@@ -83,7 +107,7 @@ export default function Navbar() {
             className="fixed inset-0 bg-[#14532d] z-50 flex flex-col p-8 text-white overflow-y-auto"
           >
             <div className="flex justify-end mb-12">
-              <button onClick={closeMenu}>
+              <button onClick={closeMenu} aria-label="Close menu">
                 <X className="w-8 h-8 text-white font-light" />
               </button>
             </div>
