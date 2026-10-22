@@ -8,7 +8,15 @@ export const translations = {
       calculators: "Money Tools",
       dashboard: "My Account",
       learn: "Learn",
-      safety: "Safety & Trust"
+      safety: "Safety & Trust",
+      supportTicketsLabel: "Support Tickets",
+      feedbackLabel: "Feedback",
+      monthlyBudgetLabel: "Monthly Budget",
+      totalWealthLabel: "Total Wealth",
+      supportTicket: "Customer Support Ticket",
+      feedbackForm: "Give Feedback",
+      budgetPlanner: "Household Budget",
+      netWorth: "Total Money and Assets"
     },
     hero: {
       title: "Wealth Consultants for a Growth Mindset",
@@ -262,7 +270,15 @@ export const translations = {
       calculators: "हिसाब किताब",
       dashboard: "खाता",
       learn: "सीखें",
-      safety: "सुरक्षा और विश्वास"
+      safety: "सुरक्षा और विश्वास",
+      supportTicketsLabel: "सहायता टिकट",
+      feedbackLabel: "सुझाव",
+      monthlyBudgetLabel: "महीने का बजट",
+      totalWealthLabel: "कुल संपत्ति",
+      supportTicket: "ग्राहक सहायता टिकट",
+      feedbackForm: "सुझाव दें",
+      budgetPlanner: "घर का बजट",
+      netWorth: "कुल पैसा और संपत्ति"
     },
     hero: {
       title: "आगे बढ़ने की सोच रखने वालों के लिए धन सलाहकार",
@@ -516,7 +532,15 @@ export const translations = {
       calculators: "हिशोब साधने",
       dashboard: "माझे खाते",
       learn: "शिका",
-      safety: "सुरक्षा आणि विश्वास"
+      safety: "सुरक्षा आणि विश्वास",
+      supportTicket: "ग्राहक मदत तिकीट",
+      feedbackForm: "अभिप्राय द्या",
+      budgetPlanner: "घराचे बजेट",
+      netWorth: "एकूण पैसा आणि मालमत्ता",
+      supportTicketsLabel: "मदत तिकीट",
+      feedbackLabel: "अभिप्राय",
+      monthlyBudgetLabel: "महिन्याचे बजेट",
+      totalWealthLabel: "एकूण संपत्ती"
     },
     hero: {
       title: "प्रगतीची दिशा देणारे आपले आर्थिक मार्गदर्शक",
@@ -770,7 +794,15 @@ export const translations = {
       calculators: "ಲೆಕ್ಕದ ಸಾಧನಗಳು",
       dashboard: "ಖಾತೆ",
       learn: "ಕಲಿಯಿರಿ",
-      safety: "ಸುರಕ್ಷತೆ ಮತ್ತು ನಂಬಿಕೆ"
+      safety: "ಸುರಕ್ಷತೆ ಮತ್ತು ನಂಬಿಕೆ",
+      supportTicketsLabel: "ಸಹಾಯ ಟಿಕೆಟ್",
+      feedbackLabel: "ಪ್ರತಿಕ್ರಿಯೆ",
+      monthlyBudgetLabel: "ತಿಂಗಳ ಬಜೆಟ್",
+      totalWealthLabel: "ಒಟ್ಟು ಆಸ್ತಿ",
+      supportTicket: "ಗ್ರಾಹಕ ಬೆಂಬಲ ಟಿಕೆಟ್",
+      feedbackForm: "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ",
+      budgetPlanner: "ಮನೆಯ ಬಜೆಟ್",
+      netWorth: "ಒಟ್ಟು ಹಣ ಮತ್ತು ಆಸ್ತಿ"
     },
     hero: {
       title: "ಮುಂದೆ ಸಾಗುವ ಮನಸ್ಸಿನವರಿಗೆ ಹಣಕಾಸು ಮಾರ್ಗದರ್ಶಿ",
@@ -1024,7 +1056,15 @@ export const translations = {
       calculators: "లెక్కల సాధనాలు",
       dashboard: "నా ఖాతా",
       learn: "నేర్చుకోండి",
-      safety: "భద్రత మరియు నమ్మకం"
+      safety: "భద్రత మరియు నమ్మకం",
+      supportTicket: "కస్టమర్ మద్దతు టికెట్",
+      feedbackForm: "అభిప్రాయం ఇవ్వండి",
+      budgetPlanner: "ఇంటి బడ్జెట్",
+      netWorth: "మొత్తం డబ్బు మరియు ఆస్తులు",
+      supportTicketsLabel: "సహాయం టికెట్",
+      feedbackLabel: "అభిప్రాయం",
+      monthlyBudgetLabel: "నెలవారీ బడ్జెట్",
+      totalWealthLabel: "మొత్తం ఆస్తి"
     },
     hero: {
       title: "ఎదగాలనే ఆలోచన ఉన్నవారికి ఆర్థిక మార్గదర్శి",
@@ -1278,7 +1318,15 @@ export const translations = {
       calculators: "கணக்கீட்டு கருவிகள்",
       dashboard: "என் கணக்கு",
       learn: "கற்றுக்கொள்",
-      safety: "பாதுகாப்பு மற்றும் நம்பிக்கை"
+      safety: "பாதுகாப்பு மற்றும் நம்பிக்கை",
+      supportTicketsLabel: "உதவி டிக்கெட்",
+      feedbackLabel: "கருத்து",
+      monthlyBudgetLabel: "மாதாந்திர பட்ஜெட்",
+      totalWealthLabel: "மொத்த சொத்து",
+      supportTicket: "வாடிக்கையாளர் ஆதரவு டிக்கெட்",
+      feedbackForm: "கருத்து தெரிவிக்கவும்",
+      budgetPlanner: "வீட்டு பட்ஜெட்",
+      netWorth: "மொத்த பணம் மற்றும் சொத்துக்கள்"
     },
     hero: {
       title: "முன்னேற நினைக்கும் அனைவருக்கும் நிதி வழிகாட்டி",
@@ -1532,7 +1580,15 @@ export const translations = {
       calculators: "കണക്കുകൂട്ടലുകൾ",
       dashboard: "എന്റെ അക്കൗണ്ട്",
       learn: "പഠിക്കുക",
-      safety: "സുരക്ഷയും വിശ്വാസവും"
+      safety: "സുരക്ഷയും വിശ്വാസവും",
+      supportTicket: "ഉപഭോക്തൃ സഹായ ടിക്കറ്റ്",
+      feedbackForm: "അഭിപ്രായം നൽകുക",
+      budgetPlanner: "വീട്ടു ബജറ്റ്",
+      netWorth: "ആകെ പണവും സ്വത്തുക്കളും",
+      supportTicketsLabel: "സഹായ ടിക്കറ്റ്",
+      feedbackLabel: "അഭിപ്രായം",
+      monthlyBudgetLabel: "പ്രതിമാസ ബജറ്റ്",
+      totalWealthLabel: "ആകെ സ്വത്ത്"
     },
     hero: {
       title: "വളർച്ച ആഗ്രഹിക്കുന്നവർക്കായി ഒരു സാമ്പത്തിക വഴികാട്ടി",
@@ -1786,7 +1842,15 @@ export const translations = {
       calculators: "ગણતરી સાધનો",
       dashboard: "મારું ખાતું",
       learn: "શીખો",
-      safety: "સુરક્ષા અને વિશ્વાસ"
+      safety: "સુરક્ષા અને વિશ્વાસ",
+      supportTicketsLabel: "સહાય ટિકિટ",
+      feedbackLabel: "પ્રતિભાવ",
+      monthlyBudgetLabel: "માસિક બજેટ",
+      totalWealthLabel: "કુલ સંપત્તિ",
+      supportTicket: "ગ્રાહક સહાય ટિકિટ",
+      feedbackForm: "પ્રતિભાવ આપો",
+      budgetPlanner: "ઘરનું બજેટ",
+      netWorth: "કુલ પૈસા અને સંપત્તિ"
     },
     hero: {
       title: "આગળ વધવાની વિચારસરણી માટે સાચા નાણાકીય સલાહકાર",
@@ -2040,7 +2104,15 @@ export const translations = {
       calculators: "ਹਿਸਾਬ ਕਿਤਾਬ",
       dashboard: "ਮੇਰਾ ਖਾਤਾ",
       learn: "ਸਿੱਖੋ",
-      safety: "ਸੁਰੱਖਿਆ ਅਤੇ ਵਿਸ਼ਵਾਸ"
+      safety: "ਸੁਰੱਖਿਆ ਅਤੇ ਵਿਸ਼ਵਾਸ",
+      supportTicket: "ਗਾਹਕ ਸਹਾਇਤਾ ਟਿਕਟ",
+      feedbackForm: "ਸੁਝਾਅ ਦਿਓ",
+      budgetPlanner: "ਘਰ ਦਾ ਬਜਟ",
+      netWorth: "ਕੁੱਲ ਪੈਸਾ ਅਤੇ ਜਾਇਦਾਦ",
+      supportTicketsLabel: "ਸਹਾਇਤਾ ਟਿਕਟ",
+      feedbackLabel: "ਸੁਝਾਅ",
+      monthlyBudgetLabel: "ਮਹੀਨੇ ਦਾ ਬਜਟ",
+      totalWealthLabel: "ਕੁੱਲ ਜਾਇਦਾਦ"
     },
     hero: {
       title: "ਤਰੱਕੀ ਦੀ ਸੋਚ ਰੱਖਣ ਵਾਲਿਆਂ ਲਈ ਸਹੀ ਸਲਾਹਕਾਰ",
@@ -2294,7 +2366,15 @@ export const translations = {
       calculators: "হিসাব নিকাশ",
       dashboard: "আমার প্রোফাইল",
       learn: "শিখুন",
-      safety: "নিরাপত্তা এবং বিশ্বাস"
+      safety: "নিরাপত্তা এবং বিশ্বাস",
+      supportTicketsLabel: "সহায়তা টিকিট",
+      feedbackLabel: "মতামত",
+      monthlyBudgetLabel: "মাসের বাজেট",
+      totalWealthLabel: "মোট সম্পত্তি",
+      supportTicket: "গ্রাহক সহায়তা টিকিট",
+      feedbackForm: "মতামত দিন",
+      budgetPlanner: "বাড়ির বাজেট",
+      netWorth: "মোট টাকা এবং সম্পত্তি"
     },
     hero: {
       title: "এগিয়ে চলার ভাবনায় আপনার বিশ্বস্ত আর্থিক পথপ্রদর্শক",
@@ -2548,7 +2628,15 @@ export const translations = {
       calculators: "ହିସାବ ଉପକରଣ",
       dashboard: "ମୋ ଖାତା",
       learn: "ଶିଖନ୍ତୁ",
-      safety: "ସୁରକ୍ଷା ଏବଂ ବିଶ୍ୱାସ"
+      safety: "ସୁରକ୍ଷା ଏବଂ ବିଶ୍ୱାସ",
+      supportTicket: "ଗ୍ରାହକ ସହାୟତା ଟିକେଟ୍",
+      feedbackForm: "ମତାମତ ଦିଅନ୍ତୁ",
+      budgetPlanner: "ଘରର ବଜେଟ୍",
+      netWorth: "ମୋଟ ଟଙ୍କା ଏବଂ ସମ୍ପତ୍ତି",
+      supportTicketsLabel: "ସହାୟତା ଟିକେଟ୍",
+      feedbackLabel: "ମତାମତ",
+      monthlyBudgetLabel: "ମାସିକ ବଜେଟ୍",
+      totalWealthLabel: "ମୋଟ ସମ୍ପତ୍ତି"
     },
     hero: {
       title: "ଆଗକୁ ବଢ଼ିବା ପାଇଁ ଆପଣଙ୍କ ପ୍ରକୃତ ଆର୍ଥିକ ସାଥୀ",
@@ -2802,7 +2890,15 @@ export const translations = {
       calculators: "হিচাপৰ আহিলা",
       dashboard: "মোৰ একাউন্ট",
       learn: "শিকক",
-      safety: "সুৰক্ষা আৰু বিশ্বাস"
+      safety: "সুৰক্ষা আৰু বিশ্বাস",
+      supportTicketsLabel: "সহায়ৰ টিকট",
+      feedbackLabel: "মতামত",
+      monthlyBudgetLabel: "মাহেকীয়া বাজেট",
+      totalWealthLabel: "মুঠ সম্পত্তি",
+      supportTicket: "গ্ৰাহক সাহায্য টিকট",
+      feedbackForm: "মতামত দিয়ক",
+      budgetPlanner: "ঘৰৰ বাজেট",
+      netWorth: "মুঠ ধন আৰু সম্পত্তি"
     },
     hero: {
       title: "আগবাঢ়ি যাব খোজা লোকৰ বাবে উপযুক্ত পথপ্ৰদৰ্শক",
@@ -3056,7 +3152,15 @@ export const translations = {
       calculators: "حساب کتاب",
       dashboard: "میرا کھاتہ",
       learn: "سیکھیں",
-      safety: "تحفظ اور اعتماد"
+      safety: "تحفظ اور اعتماد",
+      supportTicket: "کسٹمر سپورٹ ٹکٹ",
+      feedbackForm: "رائے دیں",
+      budgetPlanner: "گھر کا بجٹ",
+      netWorth: "کل پیسہ اور جائیداد",
+      supportTicketsLabel: "مدد کا ٹکٹ",
+      feedbackLabel: "رائے",
+      monthlyBudgetLabel: "ماہانہ بجٹ",
+      totalWealthLabel: "کل جائیداد"
     },
     hero: {
       title: "ترقی کی سوچ رکھنے والوں کے لئے مالی رہنما",
