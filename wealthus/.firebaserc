@@ -1,5 +1,17 @@
 {
   "projects": {
-    "default": "wealthusweb"
+    "default": "wealthus"
+  },
+  "targets": {
+    "wealthus": {
+      "hosting": {
+        "main": [
+          "wealthus"
+        ],
+        "main-2": [
+          "wealthusweb"
+        ]
+      }
+    }
   }
 }
