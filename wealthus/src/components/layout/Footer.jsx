@@ -89,6 +89,35 @@ export default function Footer() {
             <p className="mt-auto pt-8">{t('footer.copyright')}</p>
           </div>
         </div>
+
+        {/* Developer and Partnership Branding Section */}
+        <div className="flex flex-col md:flex-row justify-between items-center mt-16 pt-8 border-t border-gray-300 gap-6">
+          <div className="flex items-center gap-3">
+            <span className="text-sm font-medium text-[#0a0a0a] opacity-80">{t('footer.developedBy')}</span>
+            <img 
+              src="https://i.postimg.cc/wMgtFyQk/imageedit-8-5494402482.png" 
+              alt="PB Global Services" 
+              className="h-8 w-auto object-contain"
+              onError={(e) => {
+                e.currentTarget.onerror = null;
+                e.currentTarget.src = "https://i.postimg.cc/wMgtFyQk/imageedit-8-5494402482.png";
+              }}
+            />
+          </div>
+          <div className="flex items-center gap-3">
+            <span className="text-sm font-medium text-[#0a0a0a] opacity-80">{t('footer.coPoweredBy')}</span>
+            <img 
+              src="https://i.postimg.cc/MGXNJjdM/imageedit-1-5599915949.png" 
+              alt="AnyAstro Techno Solutions" 
+              className="h-8 w-auto object-contain"
+              onError={(e) => {
+                e.currentTarget.onerror = null;
+                e.currentTarget.src = "https://i.postimg.cc/MGXNJjdM/imageedit-1-5599915949.png";
+              }}
+            />
+          </div>
+        </div>
+
       </div>
       
       {/* Regulatory Bottom Bar */}
