@@ -12,6 +12,17 @@
           "wealthusweb"
         ]
       }
+    },
+    "wealthusweb": {
+      "hosting": {
+        "main": [
+          "wealthus"
+        ],
+        "main-2": [
+          "wealthusweb"
+        ]
+      }
     }
-  }
+  },
+  "etags": {}
 }
