@@ -35,7 +35,7 @@ export default function Navbar() {
                 onError={(e) => {
                   // Graceful fallback to logo.svg if named differently
                   e.currentTarget.onerror = null;
-                  e.currentTarget.src = "/logo.svg";
+                  e.currentTarget.src = "https://i.postimg.cc/VNG3TFwH/wp-removebg-preview.png";
                 }}
               />
             </Link>
