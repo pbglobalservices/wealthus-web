@@ -56,6 +56,8 @@ export const translations = {
       privacyLink: "Privacy Policy",
       termsLink: "Terms of Service",
       copyright: "2026 by WEALTHUS.",
+      developedBy: "Developed and maintained by",
+      coPoweredBy: "Co-powered by",
       regulatoryNotice: "AMFI-registered Mutual Fund and SIF Distributor (ARN: 369276) | APMI Registered PMS Distributor (APRN: APRN06843) | AIF Distributor"
     },
     aboutPage: {
@@ -206,6 +208,8 @@ export const translations = {
       privacyLink: "गोपनीयता नीति",
       termsLink: "नियम और शर्तें",
       copyright: "2026 वेल्थस सर्वाधिकार सुरक्षित।",
+      developedBy: "द्वारा विकसित और संचालित",
+      coPoweredBy: "सह-संचालित",
       regulatoryNotice: "एम्फी पंजीकृत म्यूचुअल फंड वितरक (ARN: 369276) | एपीएमआई पंजीकृत पीएमएस वितरक (APRN: APRN06843) | एआईएफ वितरक"
     },
     aboutPage: {
@@ -356,6 +360,8 @@ export const translations = {
       privacyLink: "गोपनीयता धोरण",
       termsLink: "नियम व अटी",
       copyright: "२०२६ वेल्थस.",
+      developedBy: "विकसित आणि देखभाल",
+      coPoweredBy: "सह-संचालित",
       regulatoryNotice: "अॅम्फी नोंदणीकृत म्युच्युअल फंड वितरक (ARN: 369276) | एपीएमआय नोंदणीकृत पीएमएस वितरक (APRN: APRN06843) | एआयएफ वितरक"
     },
     aboutPage: {
@@ -506,6 +512,8 @@ export const translations = {
       privacyLink: "ಖಾಸಗಿತನ ನಿಯಮ",
       termsLink: "ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು",
       copyright: "೨೦೨೬ ವೆಲ್ತ್‌ಅಸ್.",
+      developedBy: "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ನಿರ್ವಹಣೆ",
+      coPoweredBy: "ಸಹ-ಚಾಲಿತ",
       regulatoryNotice: "ಎಎಮ್‌ಎಫ್‌ಐ ನೋಂದಾಯಿತ ಮ್ಯೂಚುಯಲ್ ಫಂಡ್ ವಿತರಕರು (ARN: 369276) | ಎಪಿಎಂಐ ನೋಂದಾಯಿತ ಪಿಎಂಎಸ್ ವಿತರಕರು (APRN: APRN06843)"
     },
     aboutPage: {
@@ -656,6 +664,8 @@ export const translations = {
       privacyLink: "గోప్యతా విధానం",
       termsLink: "నిబంధనలు",
       copyright: "2026 వెల్త్‌అస్.",
+      developedBy: "అభివృద్ధి మరియు నిర్వహణ",
+      coPoweredBy: "సహ-ఆధారిత",
       regulatoryNotice: "AMFI రిజిస్టర్డ్ మ్యూచువల్ ఫండ్ డిస్ట్రిబ్యూటర్ (ARN: 369276) | APMI రిజిస్టర్డ్ PMS డిస్ట్రిబ్యూటర్"
     },
     aboutPage: {
@@ -806,6 +816,8 @@ export const translations = {
       privacyLink: "தனியுரிமைக் கொள்கை",
       termsLink: "விதிமுறைகள்",
       copyright: "2026 வெல்தஸ்.",
+      developedBy: "உருவாக்கம் மற்றும் பராமரிப்பு",
+      coPoweredBy: "இணைந்து வழங்குபவர்கள்",
       regulatoryNotice: "AMFI பதிவு செய்யப்பட்ட மியூச்சுவல் ஃபண்ட் விநியோகஸ்தர் (ARN: 369276) | APMI பதிவு பெற்ற PMS விநியோகஸ்தர்"
     },
     aboutPage: {
@@ -956,6 +968,8 @@ export const translations = {
       privacyLink: "സ്വകാര്യതാ നയം",
       termsLink: "നിബന്ധനകൾ",
       copyright: "2026 വെൽത്ത് അസ്.",
+      developedBy: "വികസിപ്പിച്ചതും പരിപാലിക്കുന്നതും",
+      coPoweredBy: "സഹ-പങ്കാളിത്തം",
       regulatoryNotice: "AMFI രജിസ്റ്റേർഡ് മ്യൂച്വൽ ഫണ്ട് വിതരണക്കാർ (ARN: 369276) | APMI രജിസ്റ്റേർഡ് PMS വിതരണക്കാർ"
     },
     aboutPage: {
@@ -1106,6 +1120,8 @@ export const translations = {
       privacyLink: "ગોપનીયતા નીતિ",
       termsLink: "નિયમો અને શરતો",
       copyright: "૨૦૨૬ વેલ્થસ.",
+      developedBy: "દ્વારા વિકસિત અને સંચાલિત",
+      coPoweredBy: "સહ-સંચાલિત",
       regulatoryNotice: "AMFI નોંધાયેલ મ્યુચ્યુઅલ ફંડ ડિસ્ટ્રિબ્યુટર (ARN: 369276) | APMI નોંધાયેલ PMS ડિસ્ટ્રિબ્યુટર"
     },
     aboutPage: {
@@ -1256,6 +1272,8 @@ export const translations = {
       privacyLink: "ਪਰਦੇਦਾਰੀ ਨੀਤੀ",
       termsLink: "ਸ਼ਰਤਾਂ ਤੇ ਨਿਯਮ",
       copyright: "2026 ਵੈਲਥਅਸ।",
+      developedBy: "ਦੁਆਰਾ ਵਿਕਸਤ ਅਤੇ ਸੰਭਾਲ",
+      coPoweredBy: "ਸਹਿ-ਸੰਚਾਲਿਤ",
       regulatoryNotice: "AMFI ਰਜਿਸਟਰਡ ਮਿਊਚਲ ਫੰਡ ਡਿਸਟ੍ਰੀਬਿਊਟਰ (ARN: 369276) | APMI ਰਜਿਸਟਰਡ PMS ਡਿਸਟ੍ਰੀਬਿਊਟਰ"
     },
     aboutPage: {
@@ -1406,6 +1424,8 @@ export const translations = {
       privacyLink: "গোপনীয়তা নীতি",
       termsLink: "শর্তাবলী",
       copyright: "২০২৬ ওয়েলথআস।",
+      developedBy: "উন্নয়ন এবং পরিচালনায়",
+      coPoweredBy: "সহ-পরিচালিত",
       regulatoryNotice: "AMFI নিবন্ধিত মিউচুয়াল ফান্ড ডিস্ট্রিবিউটর (ARN: 369276) | APMI নিবন্ধিত PMS ডিস্ট্রিবিউটর"
     },
     aboutPage: {
@@ -1556,6 +1576,8 @@ export const translations = {
       privacyLink: "ଗୋପନୀୟତା ନୀତି",
       termsLink: "ନିୟମ ଓ ସର୍ତ୍ତ",
       copyright: "୨୦୨୬ ୱେଲଥଅସ୍।",
+      developedBy: "ବିକଶିତ ଏବଂ ପରିଚାଳିତ",
+      coPoweredBy: "ସହ-ପରିଚାଳିତ",
       regulatoryNotice: "AMFI ପଞ୍ଜୀକୃତ ମ୍ୟୁଚୁଆଲ୍ ଫଣ୍ଡ୍ ବିତରକ (ARN: 369276) | APMI ପଞ୍ଜୀକୃତ PMS ବିତରକ"
     },
     aboutPage: {
@@ -1706,6 +1728,8 @@ export const translations = {
       privacyLink: "গোপনীয়তা নীতি",
       termsLink: "নিয়মাৱলী",
       copyright: "২০২৬ ৱেলথআছ।",
+      developedBy: "উন্নয়ন আৰু পৰিচালনা",
+      coPoweredBy: "সহ-পৰিচালিত",
       regulatoryNotice: "AMFI পঞ্জীকৃত মিউচুৱেল ফাণ্ড বিতৰক (ARN: 369276) | APMI পঞ্জীকৃত PMS বিতৰক"
     },
     aboutPage: {
@@ -1856,6 +1880,8 @@ export const translations = {
       privacyLink: "رازداری کی پالیسی",
       termsLink: "قواعد و ضوابط",
       copyright: "2026 ویلتھ اس جملہ حقوق محفوظ ہیں۔",
+      developedBy: "تیار اور زیر انتظام",
+      coPoweredBy: "کے تعاون سے",
       regulatoryNotice: "AMFI رجسٹرڈ میوچل فنڈ ڈسٹری بیوٹر (ARN: 369276) | APMI رجسٹرڈ PMS ڈسٹری بیوٹر"
     },
     aboutPage: {
