@@ -217,7 +217,10 @@ export const translations = {
       copyright: "2026 वेल्थस सर्वाधिकार सुरक्षित।",
       developedBy: "द्वारा विकसित और संचालित",
       coPoweredBy: "सह-संचालित",
-      regulatoryNotice: "एम्फी पंजीकृत म्यूचुअल फंड वितरक (ARN: 369276) | एपीएमआई पंजीकृत पीएमएस वितरक (APRN: APRN06843) | एआईएफ वितरक"
+      regulatoryNotice: "एम्फी पंजीकृत म्यूचुअल फंड वितरक (ARN: 369276) | एपीएमआई पंजीकृत पीएमएस वितरक (APRN: APRN06843) | एआईएफ वितरक",
+      regulatoryTitle: "जरूरी लिंक",
+      sebiResourcesLink: "सेबी / एम्फी की जानकारी",
+      grievanceLink: "शिकायत दर्ज करें"
     },
     aboutPage: {
       subtitle: "वेल्थस के बारे में",
@@ -371,7 +374,10 @@ export const translations = {
       copyright: "२०२६ वेल्थस.",
       developedBy: "विकसित आणि देखभाल",
       coPoweredBy: "सह-संचालित",
-      regulatoryNotice: "अॅम्फी नोंदणीकृत म्युच्युअल फंड वितरक (ARN: 369276) | एपीएमआय नोंदणीकृत पीएमएस वितरक (APRN: APRN06843) | एआयएफ वितरक"
+      regulatoryNotice: "अॅम्फी नोंदणीकृत म्युच्युअल फंड वितरक (ARN: 369276) | एपीएमआय नोंदणीकृत पीएमएस वितरक (APRN: APRN06843) | एआयएफ वितरक",
+      regulatoryTitle: "महत्त्वाच्या लिंक्स",
+      sebiResourcesLink: "सेबी / एएमएफआय माहिती",
+      grievanceLink: "तक्रार नोंदवा"
     },
     aboutPage: {
       subtitle: "वेल्थसबद्दल",
@@ -525,7 +531,10 @@ export const translations = {
       copyright: "೨೦೨೬ ವೆಲ್ತ್‌ಅಸ್.",
       developedBy: "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ನಿರ್ವಹಣೆ",
       coPoweredBy: "ಸಹ-ಚಾಲಿತ",
-      regulatoryNotice: "ಎಎಮ್‌ಎಫ್‌ಐ ನೋಂದಾಯಿತ ಮ್ಯೂಚುಯಲ್ ಫಂಡ್ ವಿತರಕರು (ARN: 369276) | ಎಪಿಎಂಐ ನೋಂದಾಯಿತ ಪಿಎಂಎಸ್ ವಿತರಕರು (APRN: APRN06843)"
+      regulatoryNotice: "ಎಎಮ್‌ಎಫ್‌ಐ ನೋಂದಾಯಿತ ಮ್ಯೂಚುಯಲ್ ಫಂಡ್ ವಿತರಕರು (ARN: 369276) | ಎಪಿಎಂಐ ನೋಂದಾಯಿತ ಪಿಎಂಎಸ್ ವಿತರಕರು (APRN: APRN06843)",
+      regulatoryTitle: "ಪ್ರಮುಖ ಲಿಂಕ್‌ಗಳು",
+      sebiResourcesLink: "ಸೆಬಿ / ಎಎಮ್‌ಎಫ್‌ಐ ಮಾಹಿತಿ",
+      grievanceLink: "ದೂರು ಸಲ್ಲಿಸಿ"
     },
     aboutPage: {
       subtitle: "ವೆಲ್ತ್‌ಅಸ್ ಬಗ್ಗೆ",
@@ -679,7 +688,10 @@ export const translations = {
       copyright: "2026 వెల్త్‌అస్.",
       developedBy: "అభివృద్ధి మరియు నిర్వహణ",
       coPoweredBy: "సహ-ఆధారిత",
-      regulatoryNotice: "AMFI రిజిస్టర్డ్ మ్యూచువల్ ఫండ్ డిస్ట్రిబ్యూటర్ (ARN: 369276) | APMI రిజిస్టర్డ్ PMS డిస్ట్రిబ్యూటర్"
+      regulatoryNotice: "AMFI రిజిస్టర్డ్ మ్యూచువల్ ఫండ్ డిస్ట్రిబ్యూటర్ (ARN: 369276) | APMI రిజిస్టర్డ్ PMS డిస్ట్రిబ్యూటర్",
+      regulatoryTitle: "ముఖ్యమైన లింక్‌లు",
+      sebiResourcesLink: "సెబీ / ఆమ్ఫి సమాచారం",
+      grievanceLink: "ఫిర్యాదు చేయండి"
     },
     aboutPage: {
       subtitle: "వెల్త్‌అస్ గురించి",
@@ -833,7 +845,10 @@ export const translations = {
       copyright: "2026 வெல்தஸ்.",
       developedBy: "உருவாக்கம் மற்றும் பராமரிப்பு",
       coPoweredBy: "இணைந்து வழங்குபவர்கள்",
-      regulatoryNotice: "AMFI பதிவு செய்யப்பட்ட மியூச்சுவல் ஃபண்ட் விநியோகஸ்தர் (ARN: 369276) | APMI பதிவு பெற்ற PMS விநியோகஸ்தர்"
+      regulatoryNotice: "AMFI பதிவு செய்யப்பட்ட மியூச்சுவல் ஃபண்ட் விநியோகஸ்தர் (ARN: 369276) | APMI பதிவு பெற்ற PMS விநியோகஸ்தர்",
+      regulatoryTitle: "முக்கிய இணைப்புகள்",
+      sebiResourcesLink: "செபி / ஆம்ஃபி தகவல்கள்",
+      grievanceLink: "புகார் அளிக்கவும்"
     },
     aboutPage: {
       subtitle: "வெல்தஸ் பற்றி",
@@ -987,7 +1002,10 @@ export const translations = {
       copyright: "2026 വെൽത്ത് അസ്.",
       developedBy: "വികസിപ്പിച്ചതും പരിപാലിക്കുന്നതും",
       coPoweredBy: "സഹ-പങ്കാളിത്തം",
-      regulatoryNotice: "AMFI രജിസ്റ്റേർഡ് മ്യൂച്വൽ ഫണ്ട് വിതരണക്കാർ (ARN: 369276) | APMI രജിസ്റ്റേർഡ് PMS വിതരണക്കാർ"
+      regulatoryNotice: "AMFI രജിസ്റ്റേർഡ് മ്യൂച്വൽ ഫണ്ട് വിതരണക്കാർ (ARN: 369276) | APMI രജിസ്റ്റേർഡ് PMS വിതരണക്കാർ",
+      regulatoryTitle: "പ്രധാന ലിങ്കുകൾ",
+      sebiResourcesLink: "സെബി / ആംഫി വിവരങ്ങൾ",
+      grievanceLink: "പരാതി നൽകുക"
     },
     aboutPage: {
       subtitle: "വെൽത്ത് അസിനെക്കുറിച്ച്",
@@ -1141,7 +1159,10 @@ export const translations = {
       copyright: "૨૦૨૬ વેલ્થસ.",
       developedBy: "દ્વારા વિકસિત અને સંચાલિત",
       coPoweredBy: "સહ-સંચાલિત",
-      regulatoryNotice: "AMFI નોંધાયેલ મ્યુચ્યુઅલ ફંડ ડિસ્ટ્રિબ્યુટર (ARN: 369276) | APMI નોંધાયેલ PMS ડિસ્ટ્રિબ્યુટર"
+      regulatoryNotice: "AMFI નોંધાયેલ મ્યુચ્યુઅલ ફંડ ડિસ્ટ્રિબ્યુટર (ARN: 369276) | APMI નોંધાયેલ PMS ડિસ્ટ્રિબ્યુટર",
+      regulatoryTitle: "મહત્વપૂર્ણ લિંક્સ",
+      sebiResourcesLink: "સેબી / એમ્ફી માહિતી",
+      grievanceLink: "ફરિયાદ નોંધાવો"
     },
     aboutPage: {
       subtitle: "વેલ્થસ વિશે",
@@ -1295,7 +1316,10 @@ export const translations = {
       copyright: "2026 ਵੈਲਥਅਸ।",
       developedBy: "ਦੁਆਰਾ ਵਿਕਸਤ ਅਤੇ ਸੰਭਾਲ",
       coPoweredBy: "ਸਹਿ-ਸੰਚਾਲਿਤ",
-      regulatoryNotice: "AMFI ਰਜਿਸਟਰਡ ਮਿਊਚਲ ਫੰਡ ਡਿਸਟ੍ਰੀਬਿਊਟਰ (ARN: 369276) | APMI ਰਜਿਸਟਰਡ PMS ਡਿਸਟ੍ਰੀਬਿਊਟਰ"
+      regulatoryNotice: "AMFI ਰਜਿਸਟਰਡ ਮਿਊਚਲ ਫੰਡ ਡਿਸਟ੍ਰੀਬਿਊਟਰ (ARN: 369276) | APMI ਰਜਿਸਟਰਡ PMS ਡਿਸਟ੍ਰੀਬਿਊਟਰ",
+      regulatoryTitle: "ਜ਼ਰੂਰੀ ਲਿੰਕ",
+      sebiResourcesLink: "ਸੇਬੀ / ਐਮਫੀ ਦੀ ਜਾਣਕਾਰੀ",
+      grievanceLink: "ਸ਼ਿਕਾਇਤ ਦਰਜ ਕਰੋ"
     },
     aboutPage: {
       subtitle: "ਵੈਲਥਅਸ ਬਾਰੇ",
@@ -1449,7 +1473,10 @@ export const translations = {
       copyright: "২০২৬ ওয়েলথআস।",
       developedBy: "উন্নয়ন এবং পরিচালনায়",
       coPoweredBy: "সহ-পরিচালিত",
-      regulatoryNotice: "AMFI নিবন্ধিত মিউচুয়াল ফান্ড ডিস্ট্রিবিউটর (ARN: 369276) | APMI নিবন্ধিত PMS ডিস্ট্রিবিউটর"
+      regulatoryNotice: "AMFI নিবন্ধিত মিউচুয়াল ফান্ড ডিস্ট্রিবিউটর (ARN: 369276) | APMI নিবন্ধিত PMS ডিস্ট্রিবিউটর",
+      regulatoryTitle: "গুরুত্বপূর্ণ লিঙ্ক",
+      sebiResourcesLink: "সেবি / অ্যামফি তথ্য",
+      grievanceLink: "অভিযোগ জমা দিন"
     },
     aboutPage: {
       subtitle: "ওয়েলথআস সম্পর্কে",
@@ -1603,7 +1630,10 @@ export const translations = {
       copyright: "୨୦୨୬ ୱେଲଥଅସ୍।",
       developedBy: "ବିକଶିତ ଏବଂ ପରିଚାଳିତ",
       coPoweredBy: "ସହ-ପରିଚାଳିତ",
-      regulatoryNotice: "AMFI ପଞ୍ଜୀକୃତ ମ୍ୟୁଚୁଆଲ୍ ଫଣ୍ଡ୍ ବିତରକ (ARN: 369276) | APMI ପଞ୍ଜୀକୃତ PMS ବିତରକ"
+      regulatoryNotice: "AMFI ପଞ୍ଜୀକୃତ ମ୍ୟୁଚୁଆଲ୍ ଫଣ୍ଡ୍ ବିତରକ (ARN: 369276) | APMI ପଞ୍ଜୀକୃତ PMS ବିତରକ",
+      regulatoryTitle: "ଜରୁରୀ ଲିଙ୍କ୍",
+      sebiResourcesLink: "ସେବି / ଆମ୍ଫି ସୂଚନା",
+      grievanceLink: "ଅଭିଯୋଗ ଦାଖଲ କରନ୍ତୁ"
     },
     aboutPage: {
       subtitle: "ୱେଲଥଅସ୍ ବିଷୟରେ",
@@ -1757,7 +1787,10 @@ export const translations = {
       copyright: "২০২৬ ৱেলথআছ।",
       developedBy: "উন্নয়ন আৰু পৰিচালনা",
       coPoweredBy: "সহ-পৰিচালিত",
-      regulatoryNotice: "AMFI পঞ্জীকৃত মিউচুৱেল ফাণ্ড বিতৰক (ARN: 369276) | APMI পঞ্জীকৃত PMS বিতৰক"
+      regulatoryNotice: "AMFI পঞ্জীকৃত মিউচুৱেল ফাণ্ড বিতৰক (ARN: 369276) | APMI পঞ্জীকৃত PMS বিতৰক",
+      regulatoryTitle: "প্ৰয়োজনীয় লিংক",
+      sebiResourcesLink: "চেবি / এম্ফিৰ তথ্য",
+      grievanceLink: "অভিযোগ দাখিল কৰক"
     },
     aboutPage: {
       subtitle: "ৱেলথআছৰ বিষয়ে",
@@ -1911,7 +1944,10 @@ export const translations = {
       copyright: "2026 ویلتھ اس جملہ حقوق محفوظ ہیں۔",
       developedBy: "تیار اور زیر انتظام",
       coPoweredBy: "کے تعاون سے",
-      regulatoryNotice: "AMFI رجسٹرڈ میوچل فنڈ ڈسٹری بیوٹر (ARN: 369276) | APMI رجسٹرڈ PMS ڈسٹری بیوٹر"
+      regulatoryNotice: "AMFI رجسٹرڈ میوچل فنڈ ڈسٹری بیوٹر (ARN: 369276) | APMI رجسٹرڈ PMS ڈسٹری بیوٹر",
+      regulatoryTitle: "اہم لنکس",
+      sebiResourcesLink: "سیبی / ایمفی کی معلومات",
+      grievanceLink: "شکایت درج کریں"
     },
     aboutPage: {
       subtitle: "ویلتھ اس کے بارے میں",
