@@ -7,10 +7,38 @@ export default function Solutions() {
   const { t } = useLanguage();
 
   const services = [
-    { title: 'solutionsPage.mfTitle', desc: 'solutionsPage.mfDesc' },
-    { title: 'solutionsPage.sipTitle', desc: 'solutionsPage.sipDesc' },
-    { title: 'solutionsPage.aifTitle', desc: 'solutionsPage.aifDesc' },
-    { title: 'solutionsPage.pmsTitle', desc: 'solutionsPage.pmsDesc' }
+    { 
+      title: 'solutionsPage.mfTitle', 
+      desc: 'solutionsPage.mfDesc',
+      includes: 'solutionsPage.mfIncludes',
+      excludes: 'solutionsPage.mfExcludes',
+      who: 'solutionsPage.mfWho',
+      timeline: 'solutionsPage.mfTimeline'
+    },
+    { 
+      title: 'solutionsPage.sipTitle', 
+      desc: 'solutionsPage.sipDesc',
+      includes: 'solutionsPage.sipIncludes',
+      excludes: 'solutionsPage.sipExcludes',
+      who: 'solutionsPage.sipWho',
+      timeline: 'solutionsPage.sipTimeline'
+    },
+    { 
+      title: 'solutionsPage.aifTitle', 
+      desc: 'solutionsPage.aifDesc',
+      includes: 'solutionsPage.aifIncludes',
+      excludes: 'solutionsPage.aifExcludes',
+      who: 'solutionsPage.aifWho',
+      timeline: 'solutionsPage.aifTimeline'
+    },
+    { 
+      title: 'solutionsPage.pmsTitle', 
+      desc: 'solutionsPage.pmsDesc',
+      includes: 'solutionsPage.pmsIncludes',
+      excludes: 'solutionsPage.pmsExcludes',
+      who: 'solutionsPage.pmsWho',
+      timeline: 'solutionsPage.pmsTimeline'
+    }
   ];
 
   return (
@@ -39,15 +67,34 @@ export default function Solutions() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ delay: index * 0.1 }}
-            className="bg-[#e8f3e5] p-10 rounded-[2rem] flex flex-col justify-between h-full"
+            className="bg-[#e8f3e5] p-8 md:p-10 rounded-[2rem] flex flex-col justify-between h-full border border-[#d1e6cc]"
           >
             <div>
-              <h2 className="text-3xl font-sans font-medium text-[#0a0a0a] mb-6">
+              <h2 className="text-3xl font-sans font-medium text-[#0a0a0a] mb-4">
                 {t(item.title)}
               </h2>
-              <p className="text-lg text-[#0a0a0a] opacity-80 leading-relaxed">
+              <p className="text-lg text-[#0a0a0a] opacity-80 leading-relaxed mb-6 pb-6 border-b border-[#d1e6cc]">
                 {t(item.desc)}
               </p>
+              
+              <div className="flex flex-col gap-4 text-sm">
+                <div>
+                  <span className="font-semibold text-[#14532d] block mb-1">{t('solutionsPage.whoLabel')}:</span>
+                  <span className="text-[#0a0a0a] opacity-90">{t(item.who)}</span>
+                </div>
+                <div>
+                  <span className="font-semibold text-[#14532d] block mb-1">{t('solutionsPage.includesLabel')}:</span>
+                  <span className="text-[#0a0a0a] opacity-90">{t(item.includes)}</span>
+                </div>
+                <div>
+                  <span className="font-semibold text-[#14532d] block mb-1">{t('solutionsPage.excludesLabel')}:</span>
+                  <span className="text-[#0a0a0a] opacity-90">{t(item.excludes)}</span>
+                </div>
+                <div>
+                  <span className="font-semibold text-[#14532d] block mb-1">{t('solutionsPage.timelineLabel')}:</span>
+                  <span className="text-[#0a0a0a] opacity-90">{t(item.timeline)}</span>
+                </div>
+              </div>
             </div>
           </motion.div>
         ))}
